@@ -1,0 +1,502 @@
+[
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850772068139028\/1.jpg?ex=65705eb0&is=655de9b0&hm=fce2fef1ea740cd9eb4c71ab36fffdb0d7d4e39fe6892604189e2515644ccc39&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850772554698752\/2.jpg?ex=65705eb1&is=655de9b1&hm=3fecdec3a73d284392da9670b17fc93ece0afd151ec09737f91d95aa7fbabef7&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850773028647002\/3.jpg?ex=65705eb1&is=655de9b1&hm=838e7f8f4fef6ea366aabb7b2b9f7a1dd7d67b8b0e1cded45b2921bb7fdb7f31&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850773548748800\/4.jpg?ex=65705eb1&is=655de9b1&hm=3ff808d175dd9617bf522f16f44f5183474468be6fc524f0718bbbccfa6ddae9&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850774022697040\/5.jpg?ex=65705eb1&is=655de9b1&hm=48d23bcc3e2f35aec0b3aee6df4d0535ebd6d0f8ae425dba75154e3e8581f94b&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850774454698024\/6.jpg?ex=65705eb1&is=655de9b1&hm=22aa523ccf70686d2ba548f13ff4e3b5b89ba50c581b4d35bc75969fc4b2603a&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850774823817216\/7.jpg?ex=65705eb1&is=655de9b1&hm=e7f87ba2370a3f77ef49101793262c0b967b77a5149b057957d02367c776fd37&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850775427776652\/8.jpg?ex=65705eb1&is=655de9b1&hm=f4953e249f930c95ba01d72b66f54e9ed3ee07c1afee203df327e57bd4502ce5&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850775901753354\/9.jpg?ex=65705eb1&is=655de9b1&hm=8e0604c73622c664277f8d13affeb3e050b03682955709b8f1f62d4be137fe0e&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176850776363118683\/10.jpg?ex=65705eb1&is=655de9b1&hm=bfa69ebea89fd43b45c8e96354cb7797d7f51dfd8de36885bdd7a9ee4bbbc505&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851434193567744\/11.jpg?ex=65705f4e&is=655dea4e&hm=d05c2870a50c3853a22020057dccf143d002a334fe46596c720afe1c3d0fde50&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851434675896461\/12.jpg?ex=65705f4e&is=655dea4e&hm=8a9e990f5d07e6a5c14925e1a45de38647c94cc20dfe8b90d8a8f0705eea9d8b&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851435045015625\/13.jpg?ex=65705f4e&is=655dea4e&hm=ffb701daa4d9d3720579c60543a8142d3195b95bbd9f864741696dc62347dae0&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851435447664671\/14.jpg?ex=65705f4f&is=655dea4f&hm=3ffd72d12fe1fe8d7572329b9005aec8093386e9b8f705bcdf81b05b7d148d0a&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851435871272970\/15.jpg?ex=65705f4f&is=655dea4f&hm=12742799db334bfe757ff77e6258e80643d697e91a912543eedb8ca15a3e52e3&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851436672405604\/16.jpg?ex=65705f4f&is=655dea4f&hm=2d02f6678afe1b4d2d2bc86216dbc7f356b77cb77aac24edbfb40071947106e7&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851437054083093\/17.jpg?ex=65705f4f&is=655dea4f&hm=66cf85733cb74e96784b4ec3a29b68735043d2bcd80231d4f725f02ff11be697&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851437448331274\/18.jpg?ex=65705f4f&is=655dea4f&hm=37cf224eccc9d5d4052c2e4d19edb39e03988de3283afc4816a5e268b1e29546&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851437838422036\/19.jpg?ex=65705f4f&is=655dea4f&hm=a8fc1871841e1b13d7185d7a13c7383d4d3ac216a98f57aeb3a2ebb8d66f10a8&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851438392066068\/20.jpg?ex=65705f4f&is=655dea4f&hm=f8a8f37eac558b06a4de41c7cbff3b4426c8cf5b98e9113c4d52170f088e476d&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851832140738580\/21.jpg?ex=65705fad&is=655deaad&hm=b52d11d69094d4326b8fb04cf85574cddeb419193f49a642cada36967b3e9cac&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851832526618714\/22.jpg?ex=65705fad&is=655deaad&hm=9b0d4d1341688a8e01141d422787aef6823baa2cf5806bfb61b1f7856c48fdfb&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851832962818088\/23.jpg?ex=65705fad&is=655deaad&hm=f5ae17be88276956634554c33ed2781cded1aff6f241060bf3b8c917303618e2&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851833365475408\/24.jpg?ex=65705fad&is=655deaad&hm=e5762e63737f043a132f0e5751ba551b25560f103ab83e1ecd2b947b656e975e&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851833751355453\/25.jpg?ex=65705fae&is=655deaae&hm=76d932f7d0ee6c064e91a691ecb4c1fe4c82c47b3596df8a9f757a98c7d2d40a&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851834170777660\/26.jpg?ex=65705fae&is=655deaae&hm=9c99767a1f4a0452cd40b7a7fe33ec6b365db11d69f55ddfa2fa85e374e09833&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851834565046292\/27.jpg?ex=65705fae&is=655deaae&hm=04ab65850c0a085815193b8b0a017016a4266c083e09bf9e00e612b56677da3f&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851834963509318\/28.jpg?ex=65705fae&is=655deaae&hm=47f96e475ea1b22ddbbbc41dc34e92d2c87cc8e5c8328d5da4a38e77642d65ea&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851835424874557\/29.jpg?ex=65705fae&is=655deaae&hm=21648730a8da0e0275b2dfd4d58ce34a6d866c87586be5041cee4ae0a939e2f3&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176851835773005836\/30.jpg?ex=65705fae&is=655deaae&hm=b19bb3cce2e6e5d5d4d68c524c8b6b28ca91ad02e13d9bf7edec6a187d41715a&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852217496617011\/31.jpg?ex=65706009&is=655deb09&hm=fe555e28e08b042292aaaead2703ac570f7c325ca3a6b7b67f8b72978f953ce6&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852217865707530\/32.jpg?ex=65706009&is=655deb09&hm=15e3837948687be363b7d0c15c4c1bda566bfa69a70c5fd13d9e5a4fa89e8c1b&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852218222215208\/33.jpg?ex=65706009&is=655deb09&hm=1178e28858afba82ee7a14598bf7ff351ffbd741122247149121375e34d67748&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852218574553118\/34.jpg?ex=65706009&is=655deb09&hm=f7391ef6fad5ca8ef59be0d77dc9afc54168df078703ff7841509e93b610a2ec&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852218968809532\/35.jpg?ex=65706009&is=655deb09&hm=ab6e92e32910fdd24ec622d051cecc710024e31b7effd39949636947ef778a7e&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852219413397584\/36.jpg?ex=65706009&is=655deb09&hm=a5fd29ec1b232bdffd06872c5e1409e94a5bce70b0d40177ceff19310c984313&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852219832844288\/37.jpg?ex=6570600a&is=655deb0a&hm=a2e9f457e0c3abbf8f931a4f0e1cebe88795b6fa0de2765e9207f40f5743b82c&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852220218712114\/38.jpg?ex=6570600a&is=655deb0a&hm=9613168bc7afecc1bbf516e44448e77ca6f37fca09642d2362cd612b93783b6d&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852220571025468\/39.jpg?ex=6570600a&is=655deb0a&hm=fd943686d0df694abe9ceca894773a3bcd54c880c9f33ff6716d2e26da226224&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176852220952723487\/40.jpg?ex=6570600a&is=655deb0a&hm=b22ac1cb244d7f0fbe23aab44f4ddec51b3851d547e4985da5502036e788f7eb&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859088223735858\/41.jpg?ex=6570666f&is=655df16f&hm=616fa619ae03ebaec18f237f397693ff07a457dc468be7e7731bdad620358dd0&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859088576065566\/42.jpg?ex=6570666f&is=655df16f&hm=90f6e9fbfa30b77d30a07230f72ccdcb48e79ce2adf96716fae41d1f24fb5d76&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859089045823619\/43.jpg?ex=6570666f&is=655df16f&hm=d4fc7c063fca5fea6f4d26a1698b4e21758a06b4917e68040bdbab5382da7582&",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859089448472636\/44.jpg?ex=6570666f&is=655df16f&hm=36a67cc19ad3362b213aa501735b8efdf9c9a0f984627c66a830bd758ee222e4&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859089796608040\/45.jpg?ex=6570666f&is=655df16f&hm=efceb93036291e35ea846aaea987bfcee5102ac7480f0b1a4414466384790795&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859090316697631\/46.jpg?ex=65706670&is=655df170&hm=f029bd684c66fef8e2625f0a3b6170c336781304fb5a4ce6ab403e8a7962c7ee&",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859090731929700\/47.jpg?ex=65706670&is=655df170&hm=06ae295591e10be08a6803bbd22cfd3fb7fce7271d2c21d2fecf52ec8490c8d6&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859091134590976\/48.jpg?ex=65706670&is=655df170&hm=0bc8c40210ba7c7012e714977d093d4b1f56a1e93330aad9b73b4c4c50ba285c&",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859091507880007\/49.jpg?ex=65706670&is=655df170&hm=62db378aa5325801848f4aa8d5ca2a007de672c9e8e0a1e28f076f54c8080fc8&",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "SORU",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1176859092002803795\/50.jpg?ex=65706670&is=655df170&hm=b6762c51fe8f62a73bd703a65ef98b5d0cd9486ff5b9da92b6ead88875adefbe&",
+  "Explaination": 1,
+  "Answer": "C)"
+ }
+]
