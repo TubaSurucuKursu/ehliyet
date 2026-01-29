@@ -1,0 +1,522 @@
+[
+ {
+  "Question": "أي منها سمة السائق الصبور ؟",
+  "A": "A) تجاوز حدود السرعة",
+  "B": "B) القيادة عن طريق تغيير المسارات باستمرار",
+  "C": "C) ألانتظار اثناء قيام السيارة التي امامه بتنزيل الركاب او محاولة الوقوف",
+  "D": "D) ضرب البوق الي السيارة التي امامه حالما يتحول الضوء الي اللون الاصفر اثناء الانتظار عند الضوء الاحمر",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) ألانتظار اثناء قيام السيارة التي امامه بتنزيل الركاب او محاولة الوقوف",
+  "Video": 1
+ },
+ {
+  "Question": "عند ظهور الضور الاصفر والاحمر معا كما في الصورة، ماذا تعني للسائق؟",
+  "A": "A) اعمال صيانة في الطريق",
+  "B": "B) في الامام تقاطع طريق وخط سكة حديدية",
+  "C": "C) المسار على وشك الانفتاح لحركة المرور",
+  "D": "D) المسار على وشك الانغلاق لحركة المرور",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNRdjN2589q36AR16T-UmtRkjbqQGaqwLoqytQo9v0T-2UuoARzuqDg6zmH-Os7v9ozbwyZRxPORpHpAVjhBNwJRlCwuFSVrkqkos3JAAHdJGFOIWLgs2mLVJmZzxHveDZq1ddsDJnJys-t5fRN1ZbRgCLaTo8rbx24ox-t9XjlzQPDEDZT_cyd11nGxxc/s320/asdasdada.jpeg",
+  "Explaination": 1,
+  "Answer": "C) المسار على وشك الانفتاح لحركة المرور",
+  "Video": 1
+ },
+ {
+  "Question": "....... تعني هذه الاشارة ب",
+  "A": "A) حركة السير بتجاه واحد",
+  "B": "B) الطريق اخذ في الضيق",
+  "C": "C) الاقتراب من التقاطع غير المنضبط",
+  "D": "D) إعطاء الاولوية لحركة السير المقابلة",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEito7wZIn9AIDujHpDP7tR5Hix3KyVcDkNjMsLw7Qvb-DEHwklpjSxgGUCwdcqlEeKRa2Il8naK0kq1xxvVOJEUWrb4TBpM_TbCnLxTv9kDssFCTI72I06YOCi2XgjXTVjxMtED_TnlSVhuaqjJnVvldc956vkVnRulHgmeECEBB-YNvZ6G2g-iOPZVCodi/s1600/yo%CC%88n.jpeg",
+  "Explaination": 1,
+  "Answer": "D) إعطاء الاولوية لحركة السير المقابلة",
+  "Video": 1
+ },
+ {
+  "Question": "في الصورة ترى واحد من وضعيات الأسعاف\n\nالمصاب ؟",
+  "A": "A) عند نزيف الشرياني",
+  "B": "B) عند اصابة الجمجمة",
+  "C": "C) عند اصابة الصدر بشي حاد",
+  "D": "D) عند اصابة العمود الفقري",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSVHB_Yf7mWGkCpDSNlPA-S2CiviAFtzCKYPN1byQFCLx-YIFgEW3_9l-PaVLm0K-yxLHS7ybjBPDEgURJZQpSqiNC_RLC14tb1UPVqPGxbpuegBPXfbWxL7wfaKsF2YDpj8eGWaM_-8tjjM0niThJBS65Z0uBBuqL7WJmhGsyrR0BMIa3Qrvl0Qzy6XR/s1600/gogogogogog.jpg",
+  "Explaination": 1,
+  "Answer": "A) عند نزيف الشرياني",
+  "Video": 1
+ },
+ {
+  "Question": "عند الاشارات الضوئية إذا تمت إضاءة الضوء\n\n الاخضر وضوء السهم الاحمر معا   \n\nماذا تعني ذلك؟",
+  "A": "A) ان ينتظرو اذا ذهبو في نفس الاستقامة",
+  "B": "B) ان ينتظرو اذا انعطفو على اليسار",
+  "C": "C) أن ينتظروا إذا انعطفو على اليمين",
+  "D": "D) الانعطاف نحو اليمين بحذر",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYHv38xs0NRDQ2SmpfkXDJQEph-gpVH6oZjIhihGJPZJOsJcpH8Nmzp485QR66ZtzHm_H4SDUjpZHkc4weNrXN4Rh1IuR-4RFGtGgbO8KZUTvA0DiTkeonU878YFhZSRFyN-k-ysZfm8U8imgvJyjNqBHPvcNG73sQghfvAs3p3PRsC6Zb5VuMXwjpzGF0/s1600/lambatrafik.jpg",
+  "Explaination": 1,
+  "Answer": "C) أن ينتظروا إذا انعطفو على اليمين",
+  "Video": 1
+ },
+ {
+  "Question": "ا تعني الاشارة المرورية في الشكل؟",
+  "A": "A) نهاية الطريق السريع",
+  "B": "B) طريق مسدود",
+  "C": "C) بداية الطريق السريع",
+  "D": "D) نهاية طريق المشاة",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqimXk5DlRG6pq_1SvP8V870VvxL1s5az_gVDQcdLuzLxuxtiq_m6j2qmgsVyPHYU_Rhn1FjKeKSdQAk9hoDipl7dTlMdJchOutfMSTz1MXxzxcQSjGObrda8L7d8I_C2T4f8U3QBiOUA5HdBiD4jG_iTVWW_I1rW2PmV_GGyDp3XV2YN5ZjpFgMpb9CXZ/s1600/otoyol.jpg",
+  "Explaination": 1,
+  "Answer": "A) نهاية الطريق السريع",
+  "Video": 1
+ },
+ {
+  "Question": "إلاشارة المرورية التالية في الصورة تشير إلى أي مما يلي؟",
+  "A": "A) بداية طريق ذو اتجاهين",
+  "B": "B) تقاطع طرق ممنوع الدخول فيه",
+  "C": "C) اختيار الشريط الذي قبل التقاطع",
+  "D": "D) الاقتراب من تقاطع طريق وخط سكة حديد",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR26BOlne9akxRhm1FrvtQ_gykMZYxnd91nRLAmFm8OdosqtYYgQ8Cb_1J5Av3Jej4GDa3_wY1skf807lKkbXlAcNmm2snM4Ovh9yk8-jVW0gJOn7Zcez8sqgyJHwbFMtFa_0xYxmoCimUAGQ8zIC0vnqRgHBcz-v2Q-8o9Ax3TqNV1L_nJMwXhCZW8VSS/s1600/Turkey_road_sign_B-4.svg.png",
+  "Explaination": 1,
+  "Answer": "C) اختيار الشريط الذي قبل التقاطع",
+  "Video": 1
+ },
+ {
+  "Question": "الى ماذا تشير الاشارة المرورية في الصورة",
+  "A": "A) ممنوع وقوف المركبات",
+  "B": "B) السماح بالمرور وانتهاء كل المحظورات",
+  "C": "C) الدلالة على الاقتراب من تقاطع بدون اشارات المرور",
+  "D": "D) الطريق مغلق للمركبات",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFAzLxkDuw3CJzU6YS8Q2ScVh13z5Yp1wOmsKpmkCiKwkFWgg_YdmEueEaJjgUjzYEOasgxVCumGG-XazLpdFDb7nBjg6CC6RIOCDNy0LuHXGLah0LrkRH4zXggfiZF3utw8xwBy6GvmZbLXx2nL8MQLABe4wnTBjmM6jRmfyPvyun-Eg2-XD6IwKrxvN2/s1600/asdasdasda.jpeg",
+  "Explaination": 1,
+  "Answer": "A) ممنوع وقوف المركبات",
+  "Video": 1
+ },
+ {
+  "Question": "معنى هذه الاشارة",
+  "A": "A) قف",
+  "B": "B) اعطاء الطريق للغير",
+  "C": "C) الخروج الى الطريق الجانبي",
+  "D": "D) شريط الصعود",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpshX5QcguKO7hA3dSlwvT09pqCr_mHQdJrjSgBP2YjTVQ6-eMeguD3N7V5kx83FkgQR9UC67FtYmJzNHbOhkZ7t_yb0QY9o61OtHHg1TZGgvHF3xSm_8xOwiRHvutEzBMVjrSqjuK9hawJ8P-lyZZSTieJadI-jmf9_7g6JPQGbex6B63xXgMqbq2-H1c/s1600/asdsadsadadsadadas.jpeg",
+  "Explaination": 1,
+  "Answer": "B) اعطاء الطريق للغير",
+  "Video": 1
+ },
+ {
+  "Question": "عند ظهور مؤشر ضغط الزيت التالي اثناء السير لا بد من\n\nأولا",
+  "A": "A) تشغيل مكيف السيارة",
+  "B": "B) الاستمرار في قيادة السيارة",
+  "C": "C) اضاءة المصابيح الداخلية",
+  "D": "D) التوقف مع مراعاة القواعد وايقاف المحرك",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdz2HLV-t2o2ASBbs3dx-UxItnrINxe-wOOYG7sH2k_gP8TRkFivdPn7STs68X1s4voAf4VlsiQPWdbZl-s0tK0r_5D3SygWQZeD1Fdqu5qzvA5bJbv4gN7pVPkoGYQyksuiKSff5V_vSjqELf00e4eDak-z_vOr4SzlKN2Hvcs6mNyTsFMlf9XuJOl5gh/s1600/1-yag%CC%86-ar%C4%B1za.png",
+  "Explaination": 1,
+  "Answer": "D) التوقف مع مراعاة القواعد وايقاف المحرك",
+  "Video": 1
+ },
+ {
+  "Question": "حسب الصورة ما الذي يجب فعلة عندما تقود اثناء جو مثلج",
+  "A": "A) نزيد من االسرعة",
+  "B": "B) نقلل مسافة التعقب",
+  "C": "C) نزيد من مسافة التعقب",
+  "D": "D) نتوقف حتى يتحسن الجو",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7PU98V9ckG5VA_dqTMFeqmMfgpH0_p82w5zfjJfppUrUNkttML0jKQg-lLfbS9SH9hJ_ddzXDj-fdXR5sjdatzZrQ5Znypxee9O14LSD7-SXxD5xXW424flkSolAwg2EHGChkpXUzOVXRKYZJqM08SBzvAgjsoaAKsr8jMkGT9hkrtpAK5rb0jxqxODM/s1600/600a47f0-57ec-4c95-8623-b31419b844a8.jpeg",
+  "Explaination": 1,
+  "Answer": "C) نزيد من مسافة التعقب",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا تعني إشارة المرور في الصورة؟",
+  "A": "A) السير نحو اليسار",
+  "B": "B) تقليل مسافة المتابعة",
+  "C": "C) السير ببطء مع الحذر",
+  "D": "D) اعطاء اشارة نحو اليمين",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_J7ZhyV6BzL82gNO31AL2MW2Spl1mdWVfEafk0n7wjn_8u-FxHCm8FalQz9hrw3iEBWrkYL6BjkGfWQGPNzP4lCop5xiApSLuN8-pMcAe5SxCjt92qby6okJ2z09UGVslWEM66sp5U2mSyHcCBI9EoR9H0wLkJMqB8t9Q3k2ic7KaAJD_7EzOeBbOH6AR/s1600/3453453535.jpg",
+  "Explaination": 1,
+  "Answer": "C) السير ببطء مع الحذر",
+  "Video": 1
+ },
+ {
+  "Question": "أي من الاسعافات الاولية التي يجب تطبيقها على الضحية في الصورة التي تستجيب لجميع التحذيرات ؟",
+  "A": "A) من خلال الجلوس يجب ان يميل راسه قليلا الي الامام",
+  "B": "B) يجب وضعه في الجانب على الاذن اليسرى",
+  "C": "C) يجب التاكد من عدم الحركة",
+  "D": "D) يجب رفع اقدامه 30 سم",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXIPOGBd9aQW5YmLdELQGKAlxpPWzWZuEgFAHm2l0PXjZnWE09ebEXhOg6jB7NaBytBK5j8ZmTobwh0qe6bUNkBg-QxjH1eBEkFTTl-XdMdR9AgU4-R4-Y01xPFpY3Yq4Cu46GIYvQbaPPtcKcIKYpCBj1jp2YAw86_LQOJt0m9NsdM3n-fakiZVpNyCH/s1600/sadasdasdasd.jpeg",
+  "Explaination": 1,
+  "Answer": "C) يجب التاكد من عدم الحركة",
+  "Video": 1
+ },
+ {
+  "Question": " عندما دخل الي النفق سائق شاحنة يريد استحدام نفق تم\n\n . فتحة حديثا يصطدم الجزء العلوي من شاحنته بمدخل النفق\n\nأي علامة المرور  لم ينتبه السائق لها في هذا الحادث ؟",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLtgFnOEaL4vgHdgKech5MYb8TUSf7AsWZfh1zUHBHmxCZM2loZakiJsfzhDHMZl-MLgdQY8LxJmrmMoA-mbbvb5pcMnrfNO3MZz5Je2_2G1k1lpsSDXlYyzT5dM14IzYivmD9GhacAXyiF2B8rUyBUVKIBY1s1mlAH-7PIQqXFU2X8XrUj0AtkiOX950N/s1600/IMG_59D4A5083311-1.jpeg",
+  "Explaination": 1,
+  "Answer": "C)",
+  "Video": 1
+ },
+ {
+  "Question": "إلى ماذا تشير الاشارة المرورية في الصورة؟",
+  "A": "A) ممنوع دخول المركبات الحاملة للمواد الخطرة",
+  "B": "B) ممنوع دخول المركبات التي تحمل ملوثات المياه",
+  "C": "C) اتجاه اجباري للمركبات التي تحمل بضائع خطرة",
+  "D": "D) ممنوع دخول مركبات تحمل مواد قابلة للاشتعال او متفجرات",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWhKN3d015mJrrBMo66acfFKsfKXhCUzhT2h_tkIENiwqrsk3Vxa1ZwIXdc4cXv2MfEsSmlcR5lg9fD_2OgAk__G_6YLQ9mFqi75rBl8hIMo4A6KwfRqNEGMPlJyEao77wfPwX5-FnbsL5TqWE_jQ0SVLDjsojmBKLSHYU2F6-ey6PKVMATLr9HPjCwgqm/s1600/d037878c-39f1-45fb-9d72-a217ae745bfe.jpeg",
+  "Explaination": 1,
+  "Answer": "C) اتجاه اجباري للمركبات التي تحمل بضائع خطرة",
+  "Video": 1
+ },
+ {
+  "Question": "أي جزء الذي هو جزء محرك احمر في الصورة ؟",
+  "A": "A) غطاء ألاسطوانه",
+  "B": "B) المكبس",
+  "C": "C) الصمام",
+  "D": "D) العمود المرفقي",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmla7XmhhWUxVr9u9lmhbZ5Iju2PRE6aW1U9mVgCAFOZAwKLffNGphOv6_8-0RqofU2Qrc_UbzBabnWEYcuvvp6MzPuLBREt9M9t5m_XNok8beTyHmXXsU5lLQoVuh68iyYSpFmg3nwSHZ6N1TL2xc2ZBoEIyHA9GVDm85cNkGWhZQhGcNdLni00kdPGaR/s1600/Paragraf%20metniniz.jpg",
+  "Explaination": 1,
+  "Answer": "B) المكبس",
+  "Video": 1
+ },
+ {
+  "Question": "فيما يلي نتائج فحص الكحول على -\n\nسائق المركبة التجارية 0.10 بروملين -I\n\n سائق الخدمة العامة 0.15 بروملين -II\n\n سائق الدراجة النارية 0.30 بروملين-III\n\n وفقا لذلك لاي السائقين غرمة شرطة المرور ويقبض على رخصهم الخاصة بهم ؟",
+  "A": "A) I و II",
+  "B": "B) I و III",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) I و II و III",
+  "Video": 1
+ },
+ {
+  "Question": "لفحص من الرأس إلى القدم \" للمرحلة الثانية من مستوى التقييم للمصاب هو \"",
+  "A": "A) التعامل مع المصاب بلطف و تسامح و الثقة و الامان",
+  "B": "B) اعطاء المصاب الراحة النفسية لازالة قلقه",
+  "C": "C) فحص عدد أنفاسه ودرجه عدد نبضه",
+  "D": "D) مخاطبة المصاب باسمه بعد معرفة اسمه",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) فحص عدد أنفاسه ودرجه عدد نبضه",
+  "Video": 1
+ },
+ {
+  "Question": "بخصوص الفروقات بين الإسعافات الأولية والعلاج الطارئ، ماذا يمكن قوله عن المعلومات الواردة في الجدول؟",
+  "A": "A) I. صحيح، II. خطأ",
+  "B": "B) I. خطأ، II. صحيح",
+  "C": "C) كلاهما صحيح",
+  "D": "D) كلاهما خطأ",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhztSxOOekGP6w7OcvrOsyFfgEk7yuLxWxeze1XKvmt96YG7A5t3rXj7pe0qopunmozpPLYt8VChUb3_ANN-qm-efF2RZSQmNjrOvFtJtI2-fdIMYKPmraz1QVojzQkfHPy6Vt50on8vl2ZwW6fCK9l8pecHICtXLu1VkaBZOsMynlX0LKU-_fjVHP_wnK_/s1600/Trafik%20Levhalar%C4%B1%284%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "B) I. خطأ، II. صحيح"
+ },
+ {
+  "Question": "في الحوادث التي يوجد فيها عدد كبير من الجرحى، يتم تقييم حالة الجرحى وتحديد من يجب التدخل معه أولاً.\n\nوفقاً لذلك، من هو الجريح الذي يجب التدخل معه في النهاية؟",
+  "A": "A) من لديه جرح مفتوح في البطن",
+  "B": "B) من ليس واعياً",
+  "C": "C) من يعاني من صعوبة في التنفس",
+  "D": "D) من لديه خلع في الكاحل",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) من لديه خلع في الكاحل"
+ },
+ {
+  "Question": "من التطبيقات المعترف بها كـ ABC للإسعافات الأولية، يشير \"C\" إلى تقييم الدورة الدموية.\n\nأي مما يلي من التطبيقات التي يقوم بها المسعف الأولي في مرحلة تقييم الدورة الدموية؟",
+  "A": "A) سؤال الجريح \"هل أنت بخير؟\"",
+  "B": "B) إعطاء الجريح وضعية الرأس-الذقن",
+  "C": "C) أخذ النبض من الشريان السباتي للجريح لمدة 5 ثوانٍ",
+  "D": "D) تقريب وجه المسعف الأولي من فم الجريح",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) أخذ النبض من الشريان السباتي للجريح لمدة 5 ثوانٍ"
+ },
+ {
+  "Question": "أي مما يلي ليس من تطبيقات الإسعافات الأولية التي يجب القيام بها للجريح الذي يعاني من انسداد جزئي؟",
+  "A": "A) منع السعال",
+  "B": "B) إزالة أطقم الأسنان المتراخية إن وجدت",
+  "C": "C) إذا تم اكتشاف الزرقة، يتم التدخل فوراً",
+  "D": "D) إذا كانت الحالة تزداد سوءاً، يتم البدء بالتطبيقات المفضلة في الانسداد الكامل",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) منع السعال"
+ },
+ {
+  "Question": "أي مما يلي ليس من التطبيقات الأساسية للإسعافات الأولية؟",
+  "A": "A) الحماية",
+  "B": "B) الإنقاذ",
+  "C": "C) الإبلاغ",
+  "D": "D) العلاج",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) العلاج"
+ },
+ {
+  "Question": "I. وضع الجريح على ظهره على سطح صلب\n\nII. تحديد الطرفين العلوي والسفلي لعظم القص لتطبيق ضغط القلب\n\nIII. تطبيق ضغط القلب على عظم القص بحيث ينخفض بمقدار 1/2 من ارتفاع الصدر عند النظر من الجانب\n\nأي مما يلي من خطوات تطبيق دعم الحياة الأساسي للبالغين؟",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) I و II"
+ },
+ {
+  "Question": "أي مما يلي خطأ في الإسعافات الأولية للجريح الذي يُعتقد أنه يعاني من نزيف داخلي؟",
+  "A": "A) اتخاذ إجراءات ضد الصدمة",
+  "B": "B) إعطاء الكثير من السوائل عن طريق الفم",
+  "C": "C) تغطيته للحفاظ على دفئه",
+  "D": "D) فحص العلامات الحيوية",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) إعطاء الكثير من السوائل عن طريق الفم"
+ },
+ {
+  "Question": "في وضع الصدمة، كم سم يتم رفع ساقي الجريح؟",
+  "A": 30,
+  "B": 40,
+  "C": 50,
+  "D": 60,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 30
+ },
+ {
+  "Question": "أي مما يلي يمكن أن يحدث نتيجة إصابة العمود الفقري؟",
+  "A": "A) تساقط الشعر",
+  "B": "B) زيادة النشاط البدني",
+  "C": "C) خروج دم رغوي من الفم",
+  "D": "D) شلل في الجزء السفلي من منطقة الإصابة",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) شلل في الجزء السفلي من منطقة الإصابة"
+ },
+ {
+  "Question": "ما اسم الحالة التي تحدث نتيجة الإجهاد أو الاصطدام أو السقوط أو الضربات المختلفة وتؤدي إلى انفصال دائم لأسطح المفصل؟",
+  "A": "A) الكسر",
+  "B": "B) الخلع",
+  "C": "C) التجمد",
+  "D": "D) الالتواء",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) الخلع"
+ },
+ {
+  "Question": "أي مما يلي تطبيق إسعافات أولية صحيح للجريح في إصابات الصدر المثقوبة؟",
+  "A": "A) إزالة الجسم المثقوب",
+  "B": "B) إعطاء المشروبات الدافئة عن طريق الفم",
+  "C": "C) إذا كان واعياً، وضعه في وضع نصف جلوس",
+  "D": "D) رفع قدميه ووضعه على ظهره",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) إذا كان واعياً، وضعه في وضع نصف جلوس"
+ },
+ {
+  "Question": "ما هي مراحل إعطاء الوضعية الموضحة في الصورة؟",
+  "A": "A) وضعية الصدمة",
+  "B": "B) وضعية الغيبوبة",
+  "C": "C) وضعية الذقن السفلي",
+  "D": "D) وضعية الرأس-الذقن",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXBPmXoIZ91Erop_dxqQr-cgmnszNpGJTU3heprRc20ynG-8R-uWVMYeOtlDcijf8G_VeqyRN-PLMS1vjA-Xqm0k7IDMHxrh5kbgKZfQBrTRgKyjrSqwZk3yVkLMw_k8jUEUELG5tkhezsVSqoX0TcHyswaiYFEn6rQ9G_Zlu6PTyJ8rBNoP5hpNE2OVGg/s1600/Trafik%20Levhalar%C4%B1%281%29-min.png",
+  "Explaination": 1,
+  "Answer": "B) وضعية الغيبوبة"
+ },
+ {
+  "Question": "- التأكد من أن قدميه غير محشورتين في الدواسات.\n\n- الاقتراب من الجانب والإمساك بذراعه بيد واحدة وذقنه باليد الأخرى بحركات خفيفة لتثبيت الرقبة.\n\n- سحبه خارج المركبة دون كسر محاذاة الرأس-الرقبة-الجذع.\n\nما اسم التقنية المعطاة خطوات تطبيقها والتي تُستخدم لإخراج الجريح من المركبة؟",
+  "A": "A) مناورة رينتيك",
+  "B": "B) طريقة رجل الإطفاء",
+  "C": "C) مناورة هيمليك",
+  "D": "D) طريقة السحب من الكاحلين",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) مناورة رينتيك"
+ },
+ {
+  "Question": "أي مما يلي من الإجراءات التي يجب اتخاذها للقيادة الآمنة؟",
+  "A": "A) شرب المشروبات الكحولية قبل القيادة",
+  "B": "B) التحدث بالهاتف المحمول باليد أثناء القيادة",
+  "C": "C) استخدام المركبة بسرعة يمكن التحكم بها وفقاً لظروف الطريق",
+  "D": "D) تفضيل المسارات ذات كثافة مرورية عالية",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) استخدام المركبة بسرعة يمكن التحكم بها وفقاً لظروف الطريق"
+ },
+ {
+  "Question": "أي مما يلي ليس من مهام وصلاحيات المديرية العامة للطرق البرية؟",
+  "A": "A) اتخاذ أو جعل اتخاذ التدابير التقنية الوقائية اللازمة على الطرق البرية",
+  "B": "B) فحص واعتماد المشاريع المتعلقة بأمان الطرق البرية",
+  "C": "C) تحديد ونشر ومراقبة معايير الإشارات على جميع الطرق البرية",
+  "D": "D) إجراء الامتحانات النظرية والعملية لمرشحي السائقين وضمان إصدار الشهادات للمتقدمين بنجاح",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) إجراء الامتحانات النظرية والعملية لمرشحي السائقين وضمان إصدار الشهادات للمتقدمين بنجاح"
+ },
+ {
+  "Question": "ما اسم المركبات المكونة من مقطورة واحدة أو اثنتين على الأكثر والمتصلة ببعضها للسير كوحدة واحدة على الطريق البرية؟",
+  "A": "A) مركبة خارج الطرق",
+  "B": "B) قطار المركبات",
+  "C": "C) مركبة التخييم",
+  "D": "D) مركبة الخدمة العامة",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) قطار المركبات"
+ },
+ {
+  "Question": "ماذا يُفعل للمسؤول الذي يتسبب في إتلاف لافتات المرور على الطرق البرية؟",
+  "A": "A) يُعاقب بالسجن لمدة 6 أشهر",
+  "B": "B) يُمنع من المرور مدى الحياة",
+  "C": "C) إذا كان لديه رخصة قيادة، يتم سحبها",
+  "D": "D) يتم إلزامه بدفع تعويضات الأضرار والمصروفات",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) يتم إلزامه بدفع تعويضات الأضرار والمصروفات"
+ },
+ {
+  "Question": "ما معنى إشارة ضابط المرور الموضحة في الشكل؟",
+  "A": "A) إغلاق المرور في جميع الاتجاهات",
+  "B": "B) فتح المرور في جميع الاتجاهات",
+  "C": "C) إشارة تسريع المرور",
+  "D": "D) إشارة إبطاء المرور",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzJ1UjyB3EAlsAhV5GqKaYOi6Q9eg8EbI74Zmtu2LKzHOh61eCb-N5PNMM3gAcxZ-ZBKmNcUfjUg5-g_320x2-bPkfn6ApyWNcMkfQBJ5fckL9LH5nnWPQycxcmsIpSjDYhnZRUQjkmU9XEIEFI81erRkdhm1WbOk5lrVndDehEerGui_NOOUTq9gT5gwK/s1600/Trafik%20Levhalar%C4%B1%282%29-min.png",
+  "Explaination": 1,
+  "Answer": "A) إغلاق المرور في جميع الاتجاهات"
+ },
+ {
+  "Question": "في جهاز إشارات المرور الضوئية، أي ضوء يحذّر ويشير حسب ترتيب الإضاءة إلى أن الطريق على وشك الإغلاق أو الفتح للمرور؟",
+  "A": "A) الضوء الأخضر",
+  "B": "B) الضوء الأصفر",
+  "C": "C) الضوء الأحمر",
+  "D": "D) الضوء الأحمر مع السهم",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) الضوء الأصفر"
+ },
+ {
+  "Question": "إشارة المرور الموضحة في الشكل تُعلم بالاقتراب من أي مما يلي؟",
+  "A": "A) الدوار",
+  "B": "B) الجسر المتحرك",
+  "C": "C) تقاطع الطريق الرئيسي والطريق الفرعي",
+  "D": "D) معبر السكك الحديدية المتحكم به",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkZWYWQ1_W0MeRRzRslog3Bra1x3bGdatUJHFlkOX33EIt88eckB4FzUAQFPbCQgjYHKApRtHVI2iUaRFNa-nbN6IvKg14bIhIPIkuodH3-AQYhapegNNdvk5A4xuVTuA2_6BNzAtkbwRpasomb3zML_06D7skCo9rcLUznE2EcdGJmgnvhmgsRGr-qG4N/s1600/Trafik%20Levhalar%C4%B1%283%29-min.png",
+  "Explaination": 1,
+  "Answer": "C) تقاطع الطريق الرئيسي والطريق الفرعي"
+ },
+ {
+  "Question": "السائق الذي يرى إشارة المرور الموضحة في الشكل يجب أن يقوم بأي مما يلي؟\n\nI. زيادة سرعته\n\nII. تقليل سرعته\n\nIII. تجنب تجاوز المركبات الأمامية",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggKzGQOlf7DgYpkCGX4G9YouVD3yKr2fFV_zgOAIiU8LSxD8DaLVKUvNVjRwePYlQqVv5B8IC3l4ulesCfukK1-S2cNV71Rw0Ii64i8YpGNKdHnmRuALXwJV6k2_ey1ESXGu746vRM7vHgIRL5f5LVeVad7vEK926-R-G_yC6d4xpJ7P9MGNUankLnm8yg/s1600/Trafik%20Levhalar%C4%B1%284%29-min.png",
+  "Explaination": 1,
+  "Answer": "C) II و III"
+ },
+ {
+  "Question": "إشارة المرور الموضحة في الشكل تُعلم بأي مما يلي؟",
+  "A": "A) حد السرعة الأقصى",
+  "B": "B) نهاية منع التجاوز",
+  "C": "C) أن المركبة لا يمكنها الدخول",
+  "D": "D) نهاية تحديد السرعة",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX9zoTLT2Ee1k8gUjFQMhzeOo7LOBEn8NAOcXbKaa-UddEVa5TMTxhrmuFbxZw0jNR-NXK4z2vwBYR1w9JUfATLxBPjxNQmn-g7qKNgCLf2hKA_ZGM5bFoyUTJ8653lT-jitS47TkMVxZIzz7IN3kzqYz97AGAYBvKSDfIyiuddslAVCpl-J38q5j8srmX/s1600/Trafik%20Levhalar%C4%B1%285%29-min.png",
+  "Explaination": 1,
+  "Answer": "A) حد السرعة الأقصى"
+ },
+ {
+  "Question": "أي من لافتات إشارات المرور التالية تنتمي إلى مجموعة إشارات تنظيم المرور؟",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfCwbS5sKOB_smkJSjAIQKvvfLHvuibyCKlB3Kfs-AHNL4bUf-4PhYjdIgrPUItwoEm4s7GorOnzZ7YGwK4M72AKtNfb8wjUWBCdGBmTxFwJxs3XT-hpP-MpIatEMEMYWXGxmihORkhTEKCaYPw7UWLYxr8G2HBjneESghs-wGtad7dK_j9YGt_qgTmM9W/s1600/Trafik%20Levhalar%C4%B1%285%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "أي من الكتابات والرموز المرسومة على طريق المركبات الموضحة في الشكل تُعلم السائقين بأنه يجب عليهم إيقاف مركباتهم على مسافة مناسبة؟",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUF8UcL5rThnVwMK_fNWj_IuQiwsZcGTtJlzPqFYJ-ck2W-HqN66p5Yn8lCXA1L3ymmjPRc8aSVdLPTaPdzSFkwEmqzWbJCx5FFZU2wDs56EUndQJKwqpSkeu08jZCnkWnYL9NTtIQnJqVFe32yv0RT9kgc7MRfoTgpdYKjFC0qXKJaGMHAL13NDiDuGV/s1600/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "A) I فقط"
+ },
+ {
+  "Question": "أي من السلوكيات التالية يؤثر سلباً على تدفق المرور؟",
+  "A": "A) انتظار مرور المركبة في الشريط الذي سيتم الدخول إليه",
+  "B": "B) السير في أقصى الشريط الأيمن حسب اتجاه السير",
+  "C": "C) احتلال الشريط الأيسر المخصص للسير بشكل مستمر",
+  "D": "D) السير في الشريط الذي تتطلبه السرعة على الطرق متعددة المسارات",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) احتلال الشريط الأيسر المخصص للسير بشكل مستمر"
+ },
+ {
+  "Question": "في الطريق البرية الموضحة في الشكل، أي مما يلي خطأ أن يقوم به سائق المركبة رقم 1؟",
+  "A": "A) السير في الشريط الذي هو فيه",
+  "B": "B) زيادة سرعته أثناء التجاوز",
+  "C": "C) إذا كان الطريق مناسباً، تجاوز المركبة الأمامية من اليسار",
+  "D": "D) إذا لم يكن الطريق مناسباً، تجاوز المركبة الأمامية من اليمين",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmenQ4V_cAc24EHGie9BJJMVT5LUgtKXEbVFnedylvFUJGVoRkYpL0CeYXEFBq8TLeoaATX-ktlbYcR2vsPYC2QvzGeuLN4BwqPphBxe1iX1Vh85QFRJOF0QGr6fqUxmkCquzOrt-G85lpWEYZY_tLJCmieJGTMiniEkMKO8Ohguy-KFnhaL12Mh3N1dx/s1600/Trafik%20Levhalar%C4%B1%287%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D) إذا لم يكن الطريق مناسباً، تجاوز المركبة الأمامية من اليمين"
+ },
+ {
+  "Question": "باستثناء الحالات الإلزامية، ما هو حد السرعة الأدنى (الحد الأدنى) للمركبات الآلية على الطرق السريعة بالكيلومتر في الساعة؟",
+  "A": 15,
+  "B": 35,
+  "C": 40,
+  "D": 50,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 40
+ },
+ {
+  "Question": "بسرعة 70 كم/ساعة، ما هي المسافة الدنيا التي يجب أن تكون بين مركبتين تسيران الواحدة خلف الأخرى بالأمتار؟",
+  "A": 25,
+  "B": 35,
+  "C": 45,
+  "D": 55,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 35
+ },
+ {
+  "Question": "بخصوص عملية تجاوز المركبة الموضحة في الشكل، أي مما يلي يمكن قوله؟",
+  "A": "A) أن المركبة رقم 2 لم تتحقق من المرور القادم من الخلف",
+  "B": "B) أن الشريط الذي تتبعه المركبة رقم 3 خاطئ",
+  "C": "C) أن الشريط الذي تتبعه المركبة رقم 1 خاطئ",
+  "D": "D) أن المركبة رقم 3 لم تلتزم بمنع التجاوز",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ1TzthZaaDttQnijYfAiGY6a6B2PNdfKTetaFIrk-oS778q-M5FO_O74RXbvIWc48ebFVOs6aYCdLv67FH1kNNy3lieX9xxIogK2YZ3yiZtuzErrt5q6MSk4Frl-waVQ0OyFhPTx1AjKnNjJjQnFBUF7Em_5Iz0kHIzzNflQkvgw_96KwAmRTFjexlQox/s1600/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "A) أن المركبة رقم 2 لم تتحقق من المرور القادم من الخلف"
+ },
+ {
+  "Question": "حسب الشكل، أي مما يلي يمكن قوله بالتأكيد؟",
+  "A": "A) أن المركبة رقم 2 تسير في الشريط الخاطئ",
+  "B": "B) أن المركبة رقم 2 لم تلتزم بمسافة المتابعة",
+  "C": "C) أن المركبة رقم 1 استخدمت إشارة الانعطاف بشكل خاطئ",
+  "D": "D) أن المركبة رقم 1 لم تعطِ الطريق للمركبة رقم 2 التي تتجاوز بشكل صحيح",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBWT7TNz1jTq-ci14FaICQx6NHPx2AqyGVfiPk01oatIR5_jn7fiwsbQHM-qPzsZ0cu2d8I30R_eDLDN8KczyLjCVh_GO3KzTJjYASeQwqYkozZX51Q_BBsSrL-S_phPOhXryRvXG-QM7IGZk7A1-2AzoWykqIjFAkg0tRIjHhUat2SC-74xKLRlrXs0nu/s1600/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D) أن المركبة رقم 1 لم تعطِ الطريق للمركبة رقم 2 التي تتجاوز بشكل صحيح"
+ },
+ {
+  "Question": "السيارة [الحمراء] أمامك تسير بسرعة منخفضة منذ فترة طويلة. في هذه الحالة، كيف تتصرف بشكل صحيح؟",
+  "A": "A) أحافظ على سرعتي",
+  "B": "B) أتجاوز لأن الطريق مفتوح",
+  "C": "C) أقلل المسافة وأضغط على البوق",
+  "D": "D) أزيد سرعتي",
+  "Image": 1,
+  "Explaination": "يجب أن تحافظ على سرعتك لتجنب الاقتراب كثيراً من السيارة الحمراء ومع ذلك الحفاظ على مسافة الأمان اللازمة. الطريق مناسب للتجاوز ولكن يمكنك رؤية المنعطف التالي. المسار المرئي قصير جداً للتجاوز. القيادة قريباً جداً في المرور والضغط على البوق مثل الدفع محظور",
+  "Answer": "A) أحافظ على سرعتي",
+  "Video": "https://v1.pinimg.com/videos/mc/expMp4/64/11/00/641100031411a3c42cdf0b64419cabea_t1.mp4"
+ },
+ {
+  "Question": "ماذا يجب أن يفعل السائق في الفيديو؟",
+  "A": "A) يجب أن يفرمل بسبب الدراجة النارية",
+  "B": "B) يجب أن يفرمل بسبب راكب الدراجة",
+  "C": "C) يجب أن يفرمل بسبب الحافلة الزرقاء",
+  "D": "D) يجب أن يحافظ على سرعته ويمضي في طريقه",
+  "Image": 1,
+  "Explaination": "الحافلة الصغيرة تغلق طريق الدراجة النارية. ومع ذلك، بدون أي حق، يقود بسرعة عالية على الطريق. الفرملة هي الأكثر صحة لتجنب تعريضه للخطر.",
+  "Answer": "A) يجب أن يفرمل بسبب الدراجة النارية",
+  "Video": "https://v1.pinimg.com/videos/mc/expMp4/70/6c/79/706c7939977b819c14660f832f65784b_t1.mp4"
+ }
+]
