@@ -1,0 +1,502 @@
+[
+ {
+  "Question": "Yetişkinde uygulanan kalp masajı uygulama bölgesi ve bası derinliği aşağıdakilerin hangisinde doğru olarak verilmiştir?\n",
+  "A": "A) Kaburganın sağ alt bölgesi → 1 cm",
+  "B": "B) Karnın sol üst bölgesi → 3 cm",
+  "C": "C) Göğüs kemiğinin ortası → 5 cm",
+  "D": "D) Göğüs kemiğinin 1\/8’lik üst kısmı → 7 cm",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Göğüs kemiğinin ortası → 5 cm"
+ },
+ {
+  "Question": "Duyu organlarının hiçbir uyarana tepki veremeyecek şekilde fonksiyonlarını yitirmesiyle beliren uzun süreli bilinç kaybı hâli aşağıdakilerden hangisidir?\n",
+  "A": "A) Şok",
+  "B": "B) Bayılma",
+  "C": "C) Koma",
+  "D": "D) Kansızlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Koma"
+ },
+ {
+  "Question": "Kaza yapmış bir araçta, devrilme tehlikesi belirgin olarak görülüyor ve araç sallanıyorsa, kazazedeler araçtan ne zaman çıkarılmalıdır?\n",
+  "A": "A) Araç itilerek yavaşça devrilmesi sağlandıktan sonra",
+  "B": "B) Araç sabit bir hâle getirildikten sonra",
+  "C": "C) Hiç zaman kaybetmeden ilk yardım müdahalesi yaptıktan sonra",
+  "D": "D) Eğer iki kişi varsa, biri araç tutuyorken diğer kişi ilk yardım müdahalesini yaptıktan sonra",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Araç sabit bir hâle getirildikten sonra"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi göğüs yaralanması olan kazazedeye uygulanmaz?\n",
+  "A": "A) Açık olan yarayı temiz bir bezle kapatıp basınç yapmadan sarmak",
+  "B": "B) Ayakları yüksekte tutup sırtüstü yatırmak",
+  "C": "C) Batan cisim varsa çıkarmamak",
+  "D": "D) Yarı oturur duruma getirmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ayakları yüksekte tutup sırtüstü yatırmak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi göğüs boşluğunda bulunan bir organdır?\n",
+  "A": "A) Böbrek",
+  "B": "B) Mide",
+  "C": "C) Kalp",
+  "D": "D) Karaciğer",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kalp"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi solunum durmasının nedenlerinden biri değildir?\n",
+  "A": "A) Suda boğulma",
+  "B": "B) Birinci derece yanıklar",
+  "C": "C) Zehirli gazların solunması",
+  "D": "D) Solunum yolunun tıkanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Birinci derece yanıklar"
+ },
+ {
+  "Question": "Öksüren, nefes alabilen ve tıkandığını ifade edebilen bir kazazedeye aşağıdaki ilk yardım uygulamalarından hangisi yapılır?\n",
+  "A": "A) Kazazedeye dokunulmadan öksürmeye teşvik edilir.",
+  "B": "B) Bir elin topuk kısmıyla iki kürek kemiğinin arasına 5 kez kuvvetlice vurulur.",
+  "C": "C) Bir elin başparmağı midenin üst kısmına, göğüs kemiği altına gelecek şekilde yumruk yaparak konur, kuvvetle arkaya ve yukarı doğru bastırılır.",
+  "D": "D) Kazazedenin bacakları üzerine ata biner şekilde oturulur ve bir elin topuğuyla göbeğin üzerinden kürek kemiklerine doğru eğik bir baskı uygulanır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kazazedeye dokunulmadan öksürmeye teşvik edilir."
+ },
+ {
+  "Question": "Kalbin yeniden çalışması için yapılan girişime ne ad verilir?\n",
+  "A": "A) Kalp krizi",
+  "B": "B) Kalp masajı",
+  "C": "C) Kalp spazmı",
+  "D": "D) Göğüs ağrısı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kalp masajı"
+ },
+ {
+  "Question": "Ağızdan ağıza suni solunum yapılacak olan kazazedede boyun travması yoksa, verilecek en doğru pozisyon aşağıdakilerden hangisidir?\n",
+  "A": "A) Yastıksız olarak sırtüstü yatırılması",
+  "B": "B) Başının altına yastık konularak sırtüstü yatırılması",
+  "C": "C) Sırtüstü yatar pozisyonda iken başının geriye doğru olması",
+  "D": "D) Sırtüstü yatar pozisyonda iken çenesinin göğsüne değecek şekilde olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sırtüstü yatar pozisyonda iken başının geriye doğru olması"
+ },
+ {
+  "Question": "Kanamanın olduğu damar, parmakla kemik arasında sıkıştırılarak kanama durdurulabilir.\n\nBu yöntemin uygulanması aşağıdaki durumların hangisinde sakıncalıdır?",
+  "A": "A) Toplardamar kanamaları",
+  "B": "B) Bacak bölgesi kanamaları",
+  "C": "C) Çökme kırık ile birlikte olan kanamalar",
+  "D": "D) Koyu renkli ve yayılarak akan kanamalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çökme kırık ile birlikte olan kanamalar"
+ },
+ {
+  "Question": "Şekildeki Baş-Çene pozisyonunun aşağıdaki durumların hangisinde verilmesi sakıncalıdır?\n",
+  "A": "A) Solunum güçlüğü olanlarda",
+  "B": "B) Boyun omurlarında hasar olanlarda",
+  "C": "C) Kanama ve kusmuk nedeniyle oluşan tıkanıklıklarda",
+  "D": "D) Dilin geriye kaçıp, hava yolunu tıkadığı durumlarda",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhLP_7VBKaC4hXcu-rDrD7ft-HXj65lQSZ4nn4h7hRNQrTDJjki122-YxUFi0FKdx64IP2XMdeyrsq1DgivNpuQ5Iiq7DwXbTuLSu1-lvKKGSIbbUPBHYfeJmdMq4fIB88k-41ZUQYXrGQRpHzGbv3OjvPdl0G7Z55YDmrJ17PFm8RCvhIVUt8rma4Sp9qO\/s1600\/Trafik%20Levhalar%C4%B1%20%285%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "B) Boyun omurlarında hasar olanlarda"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?\n",
+  "A": "A) Yarı oturur pozisyon verilmesi",
+  "B": "B) Fiziksel hareketinin artırılması",
+  "C": "C) Hava yolu açıklığının sağlanması",
+  "D": "D) Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Hava yolu açıklığının sağlanması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sürücü belgesinin geri alınmasının sebeplerindendir?\n",
+  "A": "A) Sürücü belgesi sınıfına uymayan araç kullanılması",
+  "B": "B) Sürücü belgesinin hile ile alınmış olduğunun tespit edilmesi",
+  "C": "C) Sürücünün kaza yaptığının tespit edilmesi",
+  "D": "D) Sürücünün 65 yaşını doldurmuş olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sürücü belgesinin hile ile alınmış olduğunun tespit edilmesi"
+ },
+ {
+  "Question": " I- Şehirler arası yolcu taşıyan otobüsler\n\nII- Motorlu bisiklet ve motosikletler\n\nIII- Traktör ve iş makineleri\n\nIV- Otomobiller\n\nYukarıda verilen araçların hangilerinde ilk yardım çantası bulundurulması zorunludur?",
+  "A": "A) I ve II ",
+  "B": "B) I ve IV",
+  "C": "C) II ve III ",
+  "D": "D) III ve IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) I ve IV"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sürüş yeteneğini etkileyen zihinsel süreçlerden biridir?\n",
+  "A": "A) Öfke",
+  "B": "B) İşitme",
+  "C": "C) Yaş",
+  "D": "D) Bedensel Sakatlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Öfke"
+ },
+ {
+  "Question": "Araçlarda emniyet kemeri kullanımının zorunlu olması ile aşağıdakilerden hangisi hedeflenmektedir?\n",
+  "A": "A) Denetimlerde herhangi bir sorun yaşanmaması",
+  "B": "B) Kaza anında ölüm ve yaralanmaların en aza indirilmesi",
+  "C": "C) Sürücülerin dikkatinin artırılması",
+  "D": "D) Kazaların önlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kaza anında ölüm ve yaralanmaların en aza indirilmesi"
+ },
+ {
+  "Question": "Aksine bir durum yoksa yerleşim yeri dışındaki kara yollarında, geceleri hangi ışıkların yakılması zorunludur?\n",
+  "A": "A) Uzağı gösteren ışıkların",
+  "B": "B) Acil uyarı ışıklarının",
+  "C": "C) Park ışıklarının",
+  "D": "D) Sis ışıklarının",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Uzağı gösteren ışıkların"
+ },
+ {
+  "Question": "Aşağıdaki durumların hangisinde motorlu aracın kara yolunda sürülmesi yasaktır?\n",
+  "A": "A) Sürücü belgesi sürülecek aracın cinsine uygun değilse",
+  "B": "B) Aracın periyodik bakım süresi geçmişse",
+  "C": "C) Kasko sigortası yaptırılmamışsa",
+  "D": "D) Sürülecek araç başkasına aitse",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sürücü belgesi sürülecek aracın cinsine uygun değilse"
+ },
+ {
+  "Question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?\n",
+  "A": "A) Öndeki taşıtı geçmenin yasak olduğunu",
+  "B": "B) Hız sınırlaması sonunu",
+  "C": "C) Geçme yasağı sonunu",
+  "D": "D) Park yasağını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiVGsb6VNScTQwIFaAEkjOkbt6oBo4OuU2ToBwSuQY2OXxifM4XwsO5P_BZHrSytoD8UPt5AC4KWTbA72QqZNCMHvV3fbYUh8yeaW5PTyGzVr3EsOGDxii3nYu1p_40NnAEJJT3JgXSOOz1IwXayDsly1z9bm176kiC52hCAooJuTpcD6Ir4d2b6tAAXlgh\/s1600\/Trafik%20Levhalar%C4%B1%20%284%29-min.png",
+  "Explaination": 1,
+  "Answer": "C) Geçme yasağı sonunu"
+ },
+ {
+  "Question": "Aşağıdaki trafik işaretlerinden hangisi tali yolda bulunur?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiHJKSyiRGfL86yELMq-b1p5l8PdN8gfq9JYmQrg16ElbE0iM9-HEzaxfOGqbahlmF-fWL-Pik0auCQKglMa-RqnANVOeTkNP2QWnIFLAYhS01aFW2ZCPOTVgcgqW0qDT5bSr6x40J8HImdMFgxKFh1QCGkNDhUeKTuNLuNfHRxUZelrTM3MI8IVcL5Eo-Y\/s1600\/Trafik%20Levhalar%C4%B1%20%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisinde verilen durum ile izlenecek şerit arasında uyumsuzluk vardır?\n",
+  "A": "A) Sola döneceklerin sol şeritte seyretmesi",
+  "B": "B) Yolun boş olması hâlinde iki şeridin birlikte kullanılması",
+  "C": "C) Araç geçenlerin sol şeritten gitmesi",
+  "D": "D) Yavaş gidenlerin sağ şeridi izlemesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yolun boş olması hâlinde iki şeridin birlikte kullanılması"
+ },
+ {
+  "Question": "Şekildeki otoyolda numaralanmış şeritlerden hangisi ayrılma (yavaşlama) şerididir?\n",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhstJklbHEAcMA46iw7jXm3R539jlppxw2kPLS0AEqlJUgXfG54y9Nf-d7RsYR0Qohrgf5eKa4-p8lRQknSj8vuHZUfOmX-05qmrBlYyPB2APTHPgpiQivHVOxyK30S6WEyjaE82zafaLYUsS71h7x7I3aZ4dgOBowcUREIjZuPJWix6maFlDGVqyShUky-\/s1600\/Trafik%20Levhalar%C4%B1%20%287%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "A) 1"
+ },
+ {
+  "Question": "F sınıfı sürücü belgesi sahibi olanlar aşağıdaki araçlardan hangisini kullanabilir?\n",
+  "A": "A) Lastik tekerlekli traktör",
+  "B": "B) Motorlu bisiklet",
+  "C": "C) Kamyon",
+  "D": "D) Otobüs",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Lastik tekerlekli traktör"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, trafik denetim görevlileriyle iletişim kuran sürücünün trafik adabı açısından özen göstermesi gereken davranışlardandır?\n",
+  "A": "A) Empati kurmaktan kaçınmak",
+  "B": "B) Dinlemeyi etkin şekilde yapmamak",
+  "C": "C) Karşısındaki kişiye saygı duyarak varlığını kabul etmek",
+  "D": "D) Karşısındaki kişinin ne demek istediğini gözden geçirmek yerine akıl okumak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Karşısındaki kişiye saygı duyarak varlığını kabul etmek"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisinde “takograf cihazı” bulundurulması ve kullanılması zorunludur?\n",
+  "A": "A) Otobüs ",
+  "B": "B) Minibüs",
+  "C": "C) Taksi ",
+  "D": "D) Dolmuş taksi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Otobüs "
+ },
+ {
+  "Question": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?\n",
+  "A": "A) Işıklara 50 m kaldığını",
+  "B": "B) Asgari (en az) hız sınırını",
+  "C": "C) Azami (en yüksek) hız sınırını",
+  "D": "D) Öndeki araca 50 m’den fazla yaklaşılmamasını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEioL_3ajtuq6nONgt2W7Env1fiaFKEaJzMNNHU0zRgliNxN8UlKJs4VOSVvFH2SfBXyVpUZlhzrrHAt1jnBtdKC9jpsRKCsInDVRpgUYHqviSbkvxdhnVi2FwgzAAnL6YGpctLuz6hkQpYkLGB-zhWjDzWXj8NmLfGufipQ9PWzO1l4DhE9fxQHd1W8zTII\/s1600\/Trafik%20Levhalar%C4%B1%20%285%29-min.png",
+  "Explaination": 1,
+  "Answer": "C) Azami (en yüksek) hız sınırını"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen ve motorun çalışması için ilk hareketi sağlayan parça hangisidir?\n",
+  "A": "A) Alternatör",
+  "B": "B) Fan motoru",
+  "C": "C) Marş motoru",
+  "D": "D) Silecek motoru",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEipS070I84udwd7AhP98rFj4pApWbVDWCJUr8w94EP-MLd3N60Q-TLiImzeKwPqQo4Ho2Eg5qFHO4GenqJMFxSySafHEHcIsNqzCq5768yzWsl6V2r3HGHZoWNrgQmuAyVZ7OPtw0n-bx-jMEgwLrZsaETKkc5V8l83-ZqjikiZ4cCyFjzOH1Q9UIvMCIhl\/s1600\/Trafik%20Levhalar%C4%B1%20%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C) Marş motoru"
+ },
+ {
+  "Question": "Buzlanmanın olduğu yolda sürücünün aşağıdakilerden hangisini yapması doğrudur?\n",
+  "A": "A) Ani fren yaparak durmaya çalışması",
+  "B": "B) Takip mesafesini azaltması",
+  "C": "C) Takip mesafesine uyması",
+  "D": "D) Takip mesafesini artırması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Takip mesafesini artırması"
+ },
+ {
+  "Question": "Şekle göre, geçme işlemi yapan 1 numaralı aracın sürücüsü için aşağıdakilerden hangileri söylenebilir?\n\nI- Geçiş kurallarına uyduğu\nII- Karşı yönden gelen aracın hızını dikkate almadığı\nIII- Geçilen araçtan yeterince uzaklaşmadan sağ şeride geçtiği",
+  "A": "A) Yalnız I",
+  "B": "B) I ve II",
+  "C": "C) II ve III",
+  "D": "D) I, II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjISBsMlLvH9cDevokXyRpSvHIqnI27hBIG5rkpN4E6_nXuZ0JJ2v5-pzgcE9kyxREDgZR-dmpGJc6g9q0cNL6a8S6c3qdBnIHjjr1AtOPKRvG6FUTpIZhmEtJW6Hn7a_CEBFP_ghthy8GM8WfeEq4n9fHw1Mve4F_BuQ7ekkEmumzaZdVcvShKrxD5rVe_\/s1600\/Trafik%20Levhalar%C4%B1%20%289%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C) II ve III"
+ },
+ {
+  "Question": "Aşağıdaki trafik işaretlerinden hangisi kontrollü demir yolu geçidine yaklaşıldığını bildirir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgeiRFvggPgppa9VNOCQwY8eB16Wur8YqJkAlEJw_p8RVbAn3m7sjOxXF2ArtwUMiF0k8qmRymDMinACf8JlNlycg2-GtXsFihhcVas9lRkGemPfj8CkQQaqRyd39QFY62hOvd26J4mcuKJJk_S9pzO1WuDTzkQrsyAzLcLY12OnZNmbYE_uUtMPFXDGB3l\/s1600\/Trafik%20Levhalar%C4%B1%20%2810%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, aracın sağa veya sola dönüşünde etraftaki diğer araçları ikaz etmek amacıyla kullanılır?\n",
+  "A": "A) Geri vites lambaları",
+  "B": "B) Sinyal lambaları",
+  "C": "C) Park lambaları",
+  "D": "D) Sis lambaları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sinyal lambaları"
+ },
+ {
+  "Question": "Trafikte güvenle seyahat etmek yüksek seviyede konsantrasyon gerektirir.\n\nBuna göre, direksiyon başında iken seyir emniyetinin tehlikeye düşmemesi için, aşağıdakilerden hangisinin yapılması doğru bir uygulama değildir?",
+  "A": "A) Elde cep telefonu ile konuşulması",
+  "B": "B) Temiz hava için araç camlarının kısa süreliğine açılması",
+  "C": "C) Yol şartlarına göre kontrol edilebilecek hızda araç kullanılması",
+  "D": "D) Trafik yoğunluğu düşük olan alternatif güzergâhların seçilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Elde cep telefonu ile konuşulması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, yaya ve sürücülerin trafikteki davranışlarının altında yatan psikolojik süreçleri inceler?\n",
+  "A": "A) Adli tıp",
+  "B": "B) Kazazede",
+  "C": "C) Trafik psikolojisi",
+  "D": "D) İlk yardımcı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Trafik psikolojisi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangileri gabari ile ilgilidir?\n",
+  "A": "A) I - II ",
+  "B": "B) I - III",
+  "C": "C) II - III ",
+  "D": "D) I - II - III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiqmvIn670ymj_SOv7Gigsj75uJM97yNBBuHKVvq0_fbaWdSQ2o59y0f4dH7volVl03K5jBZD5XRe6dKFbnhhRrJXUYLYA36WIVpSeFc3JlPr_8wddC4Oxd966Q1v5bOO_xlEdYyOp_MqBrGeWOcJ3gKUJ5x85Djas-t1liYnMbL4nYDHYkAT_ULHu9ehF4\/s1600\/Trafik%20Levhalar%C4%B1%20%2811%29.jpg",
+  "Explaination": 1,
+  "Answer": "A) I - II "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araca binmeden önce yapılması gereken kontrollerdendir?\n",
+  "A": "A) Ayna ayarları",
+  "B": "B) Yakıt seviyesi",
+  "C": "C) Araç lastikleri",
+  "D": "D) Koltuk ayarları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Araç lastikleri"
+ },
+ {
+  "Question": "Aracın belli bir mesafede gidebileceği kadar yakıtın araç üzerinde bulundurulmasına yarayan parça hangisidir?\n",
+  "A": "A) Yakıt deposu",
+  "B": "B) Bagaj",
+  "C": "C) Karter ",
+  "D": "D) Torpido",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Yakıt deposu"
+ },
+ {
+  "Question": "Monoküler(Tek gözü görmeyen) bir sürücü aşağıda verilen sürücü belgesi türlerinden hangisini alamaz?\n",
+  "A": "A) M (Motorlu Bisiklet)",
+  "B": "B) A (Motosiklet)",
+  "C": "C) B (Otomomobil)",
+  "D": "D) D1 (Minibüs)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) D1 (Minibüs)"
+ },
+ {
+  "Question": "Şekildeki trafik işareti neyi ifade eder?\n",
+  "A": "A) Taşıt yolunun soldan daralacağını",
+  "B": "B) Taşıt yolunun sağdan daralacağını",
+  "C": "C) Taşıt yolunun her iki taraftan daralacağını",
+  "D": "D) İki yönlü yoldan tek yönlü yola yaklaşıldığını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjUPYXvXNSULasz9j0Nq0M3lg5lTpREnA1N7RUj6P1kIK9dPZolehdSHTqTEKqHR-KFfu9yIGbW4NYu5ayoymnZmhZ0UyyVHrNaoncIff8AgSzr-MJ8FsO-M4MdRlI3vUSfO0Z-NOVow_Aqn3mZ3ltEEJy3gfEeHYAxq9j3lNdNLBD3FQa2Zqijy_Otaz7P\/s1600\/Trafik%20Levhalar%C4%B1%20%287%29.png",
+  "Explaination": 1,
+  "Answer": "B) Taşıt yolunun sağdan daralacağını"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, Motorlu Taşıt Sürücü Belgesi alacaklarda aranan şartlardan biri değildir?\n",
+  "A": "A) Sağlık şartı",
+  "B": "B) Öğrenim şartı",
+  "C": "C) Eğitim ve sınav şartı",
+  "D": "D) Motorlu araç sahibi olma şartı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Motorlu araç sahibi olma şartı"
+ },
+ {
+  "Question": "Şekildeki karşılaşmada öncelikle görev hâlindeki ambulansın geçmesi gerekir.\n\nBu durum aşağıdakilerden hangisi ile açıklanır?\n",
+  "A": "A) Otomobilin tali yolda olması",
+  "B": "B) Ambulansın ana yolda olması",
+  "C": "C) Ambulansın geçiş üstünlüğüne sahip olması",
+  "D": "D) Ambulansın diğer araca göre daha güçlü olması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgFTkhWO5it2ec5bmFiguC7qtODdla2rGv8oN3iBjsels_ey2j0zqb5ZbrwI2BXydX-cLmedBwSEUS8TOkthXGiX9qWsItvUudxWF5zECa9M0oZaCUGVIvdejqyZdFYoSqC8GubYluHg1wGCSYhxR4f1cE0Rx0j6ylrZbPvpIIrWRX2etf-P0oPD60683zg\/s1600\/Trafik%20Levhalar%C4%B1%20%2812%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C) Ambulansın geçiş üstünlüğüne sahip olması"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan \"devir saati\" sürücüye aşağıdakilerden hangisini bildirir?\n",
+  "A": "A) km\/saat cinsinden aracın hızını",
+  "B": "B) Aracın katettiği toplam kilometreyi",
+  "C": "C) dev\/dak cinsinden motorun devrini",
+  "D": "D) Uzun hüzme anahtarının açık olduğunu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) dev\/dak cinsinden motorun devrini"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin periyodik bakımı yapılmadığında yakıt sistemine yeterli miktarda yakıt ulaşmaz?\n",
+  "A": "A) Yağ filtresi",
+  "B": "B) Polen filtresi",
+  "C": "C) Yakıt filtresi",
+  "D": "D) Ekran filtresi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yakıt filtresi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin aşınması motorun yağ yakmasına sebep olur?\n",
+  "A": "A) Bujilerin",
+  "B": "B) Silindirlerin",
+  "C": "C) Fren balatalarının",
+  "D": "D) Debriyaj balatasının",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Silindirlerin"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?\n",
+  "A": "A) Motorun hararet yapması",
+  "B": "B) Motor yağına su karışması",
+  "C": "C) Manifoldlarda kaçakların oluşması",
+  "D": "D) Tekerlek yataklarının kısa sürede aşınması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tekerlek yataklarının kısa sürede aşınması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi karterdeki yağı basınçlı olarak motor parçalarına gönderir?\n",
+  "A": "A) Radyatör",
+  "B": "B) Distribütör",
+  "C": "C) Su pompası",
+  "D": "D) Yağ pompası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Yağ pompası"
+ },
+ {
+  "Question": "Taşıtla ilgili sistemlerin çalışma durumlarını bildiren ışıklı, sesli veya ibreli uyarıcıların toplandığı bölüme ne ad verilir?\n",
+  "A": "A) Kabin",
+  "B": "B) Gösterge paneli",
+  "C": "C) Başlık",
+  "D": "D) Sigorta tablası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Gösterge paneli"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi dizel motorun soğuk havalarda geç çalışmasına neden olur?\n",
+  "A": "A) Isıtma bujisinin arızalı olması",
+  "B": "B) Hararet müşirinin arızalı olması",
+  "C": "C) Enjeksiyon basıncının yüksek olması",
+  "D": "D) Besleme pompasının fazla yakıt göndermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Isıtma bujisinin arızalı olması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi rot ayarının bozuk olmasına bağlı olarak meydana gelir?\n",
+  "A": "A) Arka lastiklerin ortadan aşınması",
+  "B": "B) Ön lastiklerin içten veya dıştan aşınması",
+  "C": "C) Direksiyon milinin eğilmesi",
+  "D": "D) Direksiyon kovanının eğilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ön lastiklerin içten veya dıştan aşınması"
+ },
+ {
+  "Question": "Su soğutmalı motorun soğutma sisteminde aşağıdakilerden hangisi kullanılır?\n",
+  "A": "A) Antifriz",
+  "B": "B) Benzin",
+  "C": "C) Asitli su",
+  "D": "D) Motorin",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Antifriz"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen ve araç için gerekli elektriği üreten parçaya ne ad verilir?\n",
+  "A": "A) Debriyaj ",
+  "B": "B) Alternatör",
+  "C": "C) Distribütör",
+  "D": "D) Marş motoru",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhGGIAiW8aZq0U1uXclTOPfcXc3FqBa83BJyxcBVVGxC2LqNWQTviJxOzbrKTlodaZzvCFCITU4i7xEK0NqTs9NYj6gdoambu75J_rjX9xfTVAnzjjACDToiEQsuut9dWs7F6slKHSYxUN8wfNsG0lY8dXfb_4_7en2zRup2-PxSW4qMvgQLBK7Mr8ODGl9\/s1600\/Trafik%20Levhalar%C4%B1%20%2813%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "B) Alternatör"
+ }
+]
