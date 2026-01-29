@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Görsele göre hangileri doğrudur?\nI.Sarı otomobil kavşağı boşaltmak zorundadır\nII.Hemen şimdi dönebilirim\nIII.Yola devam etmeye hazırlanmak zorundayım",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "I ve III",
+  "D": "I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhvBUu_NzkiDlqf34RHXoVvBuyq9kO4Cj89aD_-66Kxa0ikG7F98HWeST7IqgEafs7YUiaS8YB7v8bUZk9EkzzeHv9IzhjP4heMNKgPaO46_bu2B8XkIBuNT2Sz6piNBmcN3yuIfglm1cnt44PsuK8WPXPih0qezLZOZmuRRGptpdWMpL1VTNMq9n99hNlz\/s1600\/1236004b.jpg",
+  "Explaination": 1,
+  "Answer": "I ve III",
+  "Video": 1
+ },
+ {
+  "Question": "Hangi davranış doğrudur?\nI.[Motosiklet] beklemelidir\nII.Beklemeliyim",
+  "A": "I - Doğru 2-Yanlış",
+  "B": "I - Yanlış 2-Doğru",
+  "C": "Her ikiside doğru",
+  "D": "Her ikiside yanlış",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjAHlEyc8rkAIw0AtvX4u8Bdt7AU8sKzQv1lEu_-btjnFH_KKvOAUL3X2buDsWD7rkh_lOytHFQbUyDuS18HZ5YHQqTSjW4yLbvDltYleE7hswc3oH3AW_DFkncCYtdhsQSBRGJnv4xr-PduCoVSL7v1yj2MJeiY8jPLwwST70xfAIxO01xjUQWUlkQKyvJ\/s1600\/1301103m.jpg",
+  "Explaination": "Temel Kural sağdakine öncelik vermenizdir. Bu nedenle beklemeniz ve motosikletçiye yol açma hakkı vermeniz gerekir.",
+  "Answer": "I - Yanlış 2-Doğru",
+  "Video": 1
+ },
+ {
+  "Question": "Bu durumda nasıl doğru hareke edersiniz?",
+  "A": "A) [Bisiklet sürücüsünü] sollarım",
+  "B": "B) Hızımı düşürürüm",
+  "C": "C) Hızımı koruyorum",
+  "D": "D) Hızlanırım",
+  "Image": 1,
+  "Explaination": "Önünüzde bisikletçiyi geçmek için yeterli alan vermeyen bir yol adası var. Yavaşlamalı ve şerit tekrar genişleyene kadar bisikletçinin arkasında kalmalısınız.",
+  "Answer": "B) Hızımı düşürürüm",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/9e\/d3\/72\/9ed372d9c02e43f265e169eb72db7428_t4.mp4"
+ },
+ {
+  "Question": "Kendinizi neye hazırlamalısınız?\nI.Araçların hareket etmesine\nII.Yayaların birdenbire yola çıkmalarına\nIII.Araç kapılarının açılmasına",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "I ve III",
+  "D": "I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjuWYvvWPAKkvTqIva586dEFcG4R_9vr0B-qm33Vk3LYsiqHVR5yySQMiJq0ujnxHrPbNoWTfhFefJzxNqw_p2BmzXxMejZv7nZxGCCkwmEfkOPZb1QoNoBwcFjsITPrsJ0mImahyphenhyphenpARZvei7DDseW6I4Jm8FV5d5OWfrKBZcANiWzCQj9_aCoXch-VcmnQ\/s1600\/1102131.jpg",
+  "Explaination": "özellikle yavaş ve dikkatli bir sekilde buraya sürün ve sizi frenlemeye hazır tutun.",
+  "Answer": "I,II ve III",
+  "Video": 1
+ },
+ {
+  "Question": "Bu trafik işareti kombinasyonu ne anlatıyor?\n\nI.Demiryolu geçidini anlatıyor ve raylı sistem araçları geçidi yalnızca saatte 10 km hızla geçebilirler\nII. Ben geçide bu noktadan itibaren saatte azami 10 km hızla yaklaşabilirim\nIII.Ben geçitten saatte azami 10 km hızla geçebilirim",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "II ve III",
+  "D": "I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEioeFg-hnF5kUGImF8Fe_S-UGE08xKh6WbI43N8LhPVS0YelWzxPkOus9b1dFS9AwkkNL3Xz8d0cpa4jPjINYUCoTeZxM2DcRWcPmrRnNbHhArpBwIwmjSgyEflJP0kYqCNhyphenhyphenjOaSAcpT8hTiHvZiU8C9dn3FBzjqd1vpSZKxRv2DtNjE6XrxQElxIHuBma\/s1600\/1219113.png",
+  "Explaination": "Trafik işareti demiryolu trafiğini ifade etmemektedir. Buradan demiryolu geçişine 10 km \/ s'den daha hızlı gidemezsiniz. Trafik işareti, demiryolu geçişini geçmeniz gereken hızı belirtir.",
+  "Answer": "II ve III",
+  "Video": 1
+ }
+]

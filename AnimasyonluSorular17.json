@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Videoya göre neyi düşünürsünüz?",
+  "A": "A) Sürücü durmalı yolu kontrol ettikten sonra geçmelidir",
+  "B": "B) Sağa dönüşünü dar kavisle tamamlamalıdır",
+  "C": "C) Yavaşlamalı ve sola dönüşünü tamamlamalıdır",
+  "D": "D) Araç doğru yerde durmuştur, sinyal vermek zorundadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yavaşlamalı ve sola dönüşünü tamamlamalıdır",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/86\/08\/94\/86089411ba3f4fd4e4d75f0d1db84836.mp4"
+ },
+ {
+  "Question": "Şekildeki ok ile gösterilen Yeşil aracın bulunduğu yoldaki yol çizgisi neyi bildirir?",
+  "A": "A) Sağ şeritten gidilemeyeceğini",
+  "B": "B) Sollama yapılabileceğini",
+  "C": "C) Öndeki araçların geçilemeyeceğini",
+  "D": "D) Bankette durulamayacağını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi-q41oTnP3v26hXAk0ltwy0HGK2fFMs486HPQ10fKBCzSinUDUkNnFPax_4JuMdxDc-FrCCHWsIJ7Lq-rLAJE9INIrnnk0JtbxsPoUYAHu7Rdq5YtaF895AzEUjwir6h25Q-dXGUzXgQuHy5kbJa8yEn8hA925LqQYnvDVyROyV9hYoTR2NyMwmlk2BjKW\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29.png",
+  "Explaination": 1,
+  "Answer": "C) Öndeki araçların geçilemeyeceğini",
+  "Video": 1
+ },
+ {
+  "Question": "Görsele göre geçiş hakkı sıralaması nasıl olmalıdır?",
+  "A": "A) 1 - 2 - 3",
+  "B": "B) 1 - 3 - 2",
+  "C": "C) 3 - 1 - 2",
+  "D": "D) 2 - 1 -3",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjaqof7SH9DO7PDp54aS59xS1LE9kOmKXam1KnZcSaF6dZzulEtCS4Tfh8ZONqZ8LkCtz8lnI8jBXrpGbiXqodE97zpKDWj_4qbcJLRvmUdwQ6yQhHWnrk_JaUT3v1uPp4P8sKM2Y8ycVnq83p7nO3Nt85ESOtaJVqJjJYJAsXlkBKddhN0NmeAbeAcrAbp\/s1600\/Trafik%20Levhalar%C4%B1%20%282%29.png",
+  "Explaination": 1,
+  "Answer": "A) 1 - 2 - 3",
+  "Video": 1
+ },
+ {
+  "Question": "Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?",
+  "A": "A) Sağdan ana yola girişi",
+  "B": "B) Soldan ana yola girişi",
+  "C": "C) Sağa tehlikeli virajı",
+  "D": "D) Açılan köprüyü",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhhQA_JSt_TvW_QCoMLpyZ89Qf4oGLAwJcvhzn6-WB67H_1AyUul-BlAcnSw6Ln6MKihqp7dMCgN4OpimE5awbWMwDl1PXPFRKvgxu_PKEjSLidBm8ws7gtt-utmHdRSS9WQJ_N9gqp4r-xMrGY1dBOOYz2nRxV2m51gmDtPMp_ILG5ndunntb2r4-oULvJ\/s1600\/Trafik%20Levhalar%C4%B1.jpg",
+  "Explaination": 1,
+  "Answer": "A) Sağdan ana yola girişi",
+  "Video": 1
+ },
+ {
+  "Question": "Görsele göre hangi davranışınız doğru olur?\n\nI. Ani direksiyon hareketlerinden kaçınırım\nII. Virajda sert fren yaparım\nIII. Hızımı azaltırım",
+  "A": "A) Yalnız I",
+  "B": "B) I ve II",
+  "C": "C) I ve III",
+  "D": "D) I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh8Ed6IU4K_OSp_jF61BM33NcXTBy31pof9IzB1Tpg4dZbGGq9WDDDyk9T1M6Su_qQuIJ0FfiLKLaDwHp6FY8cKOiaCviZiosQ_56oZ42Hval7X3N2nLkwojYxARsZS-t6g2P53V-V_sRtHfdsXq2vR75tJBHRi1Kd5xXIKme0_bUSmA-GSEhTt-6zUj33A\/s1600\/1103120.jpg",
+  "Explaination": "Trafik işareti kaygan kar veya buzu gösterir ve önünüzdeki virajda yolda kar veya sulu kar görülebilmektedir. Yol yüzeyindeki kar veya buz yolu kayganlaştırır. Büyük bir kayma riski olduğundan ani fren veya direksiyondan kaçınılmalıdır. Kaymayı önlemek için fren yapmalısınız.",
+  "Answer": "C) I ve III",
+  "Video": 1
+ }
+]

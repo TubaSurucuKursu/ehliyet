@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Hangi araçlar hatalıdır?",
+  "A": "A) 1 ve 2",
+  "B": "B) 2 ve 3\n",
+  "C": "C) 1 ve 3",
+  "D": "D) 1,2 ve 3",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 1,2 ve 3",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/96\/7f\/3a\/967f3a91785862080f54f3b1f52e1263.mp4"
+ },
+ {
+  "Question": "Aracın arkasındaki kırmızı lambanın yanması, trafikteki diğer sürücülere aşağıdakilerden hangisini bildirir?",
+  "A": "A) Aracın sola döneceğini",
+  "B": "B) Aracın sağa döneceğini",
+  "C": "C) Araçta frenleme yapıldığını",
+  "D": "D) Gaz pedalından ayağın çekildiğini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Araçta frenleme yapıldığını",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/26\/30\/7d\/26307d8d85736aaaead9e86679e7403c.mp4"
+ },
+ {
+  "Question": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+  "A": "A) Araç ışıklarını doğru yerde kullanmadığı",
+  "B": "B) Dönüş öncesi doğru şeride girmesi",
+  "C": "C) Kamyon sürücüsünü zor durumda bırakmadığı",
+  "D": "D) Geçme kurallarına uymadığı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj4HoLnDHYOXC28FGiJcfTVfoNIb6zkA9kOs-vkwMxQ1SLih07pS3sPC-7AIOhOPC10KcjbOrF-xr4YxkshrCSRdasGne5SocBmXgT-Oa6qCxT5I9ZGTBzWraRLdQ2otXasYmqCQxojGYzk4a_9McS8LjzuoO12MtnqJ9wFMvGjtdWDwHMqEGOU3Snjagdr\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
+  "Explaination": 1,
+  "Answer": "C) Kamyon sürücüsünü zor durumda bırakmadığı",
+  "Video": 1
+ },
+ {
+  "Question": "Animasyona göre hangisinin yapılması yanlıştır?",
+  "A": "A) Hızını azaltması",
+  "B": "B) Öndeki aracı geçmesi",
+  "C": "C) Takip mesafesini azaltması",
+  "D": "D) Duraklama yapmaktan kaçınması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Takip mesafesini azaltması",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/c3\/60\/d2\/c360d247c4b2923531f7c09917aeab0b.mp4"
+ },
+ {
+  "Question": "Görsele göre neyi düşünürsünüz?",
+  "A": "A) Sadece yolcu indirip bindirilirken kısa süreli duraklanabilir",
+  "B": "B) Bütün yasaklama ve kısıtlamanın sonu",
+  "C": "C) Girişi olmayan yol",
+  "D": "D) Yol ileride bitecektir güzergah sonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sadece yolcu indirip bindirilirken kısa süreli duraklanabilir",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4b\/6e\/85\/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
+ }
+]

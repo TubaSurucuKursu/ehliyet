@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Animasyonu izleyiniz. Bu durumda nasıl doğru hareket edersiniz?\nI. Hemen şimdi sağ şeride geçiyorum.\nII.Yaklaşık 200 m sonrasında sağ şeride geçerim\nIII.Sağ şeritte ilerleyen araçları sollayabilirim",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "I ve II",
+  "D": "II ve III",
+  "Image": 1,
+  "Explaination": "Sağdan giden yeşil arabaya çarpacağınız için şu anda sağ şeride geçmenize izin verilmiyor. Trafik levhasında yol çalışması işareti var ve 200m mesafe verilmiş. Yaklaşık 200 m sonrasında sağ şeride geçebilirsiniz. Olası bir sıkışmayıda önlersiniz. Burada sollama yapabilirsiniz. Sağ şeritte seyreden araçları sollayıp, yaklaşık 200 metre önlerinde sağ şeride geçmenize izin verilir.",
+  "Answer": "II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4d\/03\/4a\/4d034aab18fac7ac778fabec8d6011d1.mp4"
+ },
+ {
+  "Question": "Doğru davranış nedir?",
+  "A": "A) Yaya geçidinden bir adam geçmek istediği için dururum",
+  "B": "B) Fark edildiği kadarıyla hiçbir yaya yaya geçidini kullanmak istemediği için, yoluma yavaşça devam ederim",
+  "C": "C) Transport aracının arkasında bir çocuk araç şeridine gireceği için dururum",
+  "D": "D) Yaya geçidinden bir adam geçmek istediğine göre o geçemeden hızlanarak ondan önce geçerim",
+  "Image": 1,
+  "Explaination": "Adam yaya geçidini tamamen geçinceye kadar durmanız ve beklemeniz gerekir.",
+  "Answer": "A) Yaya geçidinden bir adam geçmek istediği için dururum",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/cc\/d8\/ae\/ccd8aec286bc6fbe5035bf800c25ebe0.mp4"
+ },
+ {
+  "Question": "Hangi davranış doğrudur?\nI.[Mavi binek otosunun] geçmesini beklemeliyim\nII.[Mavi binek otosundan] önce gidebilirim\nIII.Motosikletin geçmesini beklemeliyim",
+  "A": "Yalnız I",
+  "B": "Yalnız II",
+  "C": "I ve III",
+  "D": "I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjZHSZgWLrtDE3Wf8QVHsXIJh3AiUNL8GwXdpWsUYH3hVsx8gZzgcvTK-ikSwPgwJuAZ6_ep4ROcp4WuOJJudnfnvHH5NFV2Tqf3pJqeLK6wAIyfQfz6lDn8Or9Cn6LHFPoqklZTzBlCKw46-zV4rNPPZbPtKPSbvx9FUcvCNQ9h-ZZRW6cUcDw3DYgZfkt\/s1600\/1301038m.jpg",
+  "Explaination": "Mavi araba aynı zamanda \"alt\" bir caddededir. Sizde bir alt caddedesiniz. Ancak Mavi araba sağdadır. Sağ önceliklidir. Sağdakine yol vermeniz gerekir. Görseldeki  Trafik işareti “yol hakki” anlamına gelir. Ayrıca, motosikletçinin bulunduğu ana yoldaki virajı gösterir. Motosikletçinin ilerlemesine izin vermelisin.",
+  "Answer": "I ve III",
+  "Video": 1
+ },
+ {
+  "Question": "Burada nasıl doğru davranırsınız?\nI. Yayaların yanından sürerek geçerim\nII.Mümkün olduğunca sağ tarafta sürerim\nIII.Adım hızında gidecek şekilde frenlerim",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I,II ve III",
+  "Image": 1,
+  "Explaination": "Bir araç size doğru geliyor, yayaları sollamamalısınız. Sağa giderek bunu aracın yanınızdan geçmesini kolaylaştırın. Karşıdan gelen trafiğin geçmesine izin vermek ve yayaları tehlikeye atmamak veya korkutmamak için yürüme hızına yavaşlayın.",
+  "Answer": "II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/9f\/00\/c3\/9f00c3834d09e22aeb4e54d9298a4a94.mp4"
+ },
+ {
+  "Question": "Videoda özellikle neyi hesaba katmak zorundasınız?",
+  "A": "A) Önümdeki sarı renkli kamyonun sollama yapmak için makas atacağını",
+  "B": "B) Gri renkli binek otosunun sağ şeritte kalacağını",
+  "C": "C) Gri renkli binek otosunun orta şeride geçeceğini",
+  "D": "D) [Kırmızı] renkli kamyonun şerit değiştireceğini",
+  "Image": 1,
+  "Explaination": "Sari kamyon sollayacak gibi gözükmüyor. Gri araba sinyal veriyor ve sola doğru kayıyor. Muhtemelen orta seride geçecektir.",
+  "Answer": "C) Gri renkli binek otosunun orta şeride geçeceğini",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/6b\/e1\/cd\/6be1cd219658eb27326b837687f0a04c.mp4"
+ }
+]

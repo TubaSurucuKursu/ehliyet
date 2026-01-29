@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Bu durumda nasıl davranırsınız?",
+  "A": "A) Arkamdakileri engellememek için akıcı bir şekilde saparım",
+  "B": "B) Önce ortadaki adanın orada, diğer beyaz binek otosunun bulunduğu yerde beklerim",
+  "C": "C) Sola sapmadan önce beklerim ve ortadaki adayı serbest bırakırım",
+  "D": "D) Beyaz binek oto bana yol vereceği için beklemeden geçerim",
+  "Image": 1,
+  "Explaination": "Trafikte Ada: Yayaların geçme ve durmalarına, taşıtlardan inip binmelerine yarayan, trafik akımını düzenleme ve trafik güvenliğini sağlama amacıyla yapılmış olan, araçların bulunamayacağı, koruyucu tertibatla belirlenmiş bölüm ve alanlara “ada” denir. Dikiz aynasından yaklaşmakta olan tramvayı görebilirsiniz. Beyaz araba rayların üzerinde. Tramvay için bu alanı terketmesi için beklemelisin. Sadece orta adaya doğru sürün, tramvay geçerse ve yol temizse geçebilirsiniz. Beyaz araba merkez adadan olabildiğince hızlı ayrılmalı, böylece tramvay devam edebilir. Ona yol vermelisin.",
+  "Answer": "C) Sola sapmadan önce beklerim ve ortadaki adayı serbest bırakırım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/ed\/96\/35\/ed96358983b9979f95d23b7b07750f78.mp4"
+ },
+ {
+  "Question": "Videoyu izleyiniz. Şimdi neden sola sapmanıza neden izin verilmemiştir?",
+  "A": "A) [yeşil] arabadan dolayı",
+  "B": "B) [sarı] arabadan dolayı",
+  "C": "C) [kırmızı] arabadan dolayı",
+  "D": "D) [Yaya] dan dolayı",
+  "Image": 1,
+  "Explaination": "Düz giden sürücülerin bir kavşakta geçiş hakkı vardır. Yani sarı araba kavşağı geçene kadar dönmek için beklemeniz gerekiyor.",
+  "Answer": "B) [sarı] arabadan dolayı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/7d\/e6\/f4\/7de6f4a532b3208468cf1cfd5dcca69d.mp4"
+ },
+ {
+  "Question": "Bu karlı yolda sollama yapmak neden tehlikeli?\n\nI.Çünkü yolda yer yer buzlanma olabilir\nII.Çünkü aracım kayabilir\nIII.Çünkü görüşüm daha da fazla olumsuz etkilenebilir",
+  "A": "A) Yalnız I",
+  "B": "B) I ve II",
+  "C": "C) II ve III",
+  "D": "D) I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh-lQhhoGHB1Z1IHIJXZSWMh3xeu9KZ5utudiQr6Z20KtviDCjUrJz-Th0TK3vvYKhWE_SOqrlE0HZnjtBMs_rHQBG-Bnk_g7ues9hyphenhyphenIyqMi14QBs_BEjdFuVSPGo18bIXnmaZ3VW2YlCHRqNFoODoII2eNy8dDxjxMoIafGMLYuVbruarqXD-Euuc_yVh5\/s1600\/2103124.jpg",
+  "Explaination": "Kar örtüsü altında yol bazı yerlerde buzlu olabilir. Bu, sollama yaparken aracınızın kontrolünü kaybetmenize ve başkalarını ve kendinizi tehlikeye atmanıza neden olabilir. Yoldaki kar aracınızın kaymasına neden olabilir ve sollama yaparken aracınızın kontrolünü kaybedebilirsiniz.",
+  "Answer": "D) I,II ve III",
+  "Video": 1
+ },
+ {
+  "Question": "[Bisiklet sürücüsü] yoluna düz devam etmek istiyor. Burada ne şekilde davranmanız gerekir?\n\nI.[Bisikletli adamın] arkasında kalırım\nII.[Bisikletli adamı] geçerim",
+  "A": "I.Doğru II.Yanlış",
+  "B": "I.Yanlış II.Doğru",
+  "C": "Her ikiside yanlış",
+  "D": "Her ikiside doğrudur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgchBlVj5LoGPQTVI7mFKsH3JBKXC77u_j5SeKBVN4slum9mekZyvHQlcj6_yHdvkd5Jlv-MDKF8GRFm9SF-KWBRfmmE8ZHwDlyDCtXEGtBBem1jXV2G-Zh4ig0GVJYnVSWMDlESyxYv3MNY7t92xJNoePJI8AifOS1Ohvw5SOkGE317F8evKm2euJadZzl\/s1600\/1209131m.jpg",
+  "Explaination": "Sadece bisikletçi önden geçtiğinde dönebilirsiniz.",
+  "Answer": "I.Doğru II.Yanlış",
+  "Video": 1
+ },
+ {
+  "Question": "Hangi davranış doğrudur?\n\nI. İkisinin de bana izin vermesi gerektiğinden devam ederim\nII. Karşıdan gelen kişi beklemekle yükümlü olduğundan ondan önce geçilmelidir\nIII.İki kişi de önceliğe sahip olduğundan beklemek gerekir",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız III",
+  "C": "C) II ve III",
+  "D": "D) I,II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhy9G2jTonBxphYb-90MDSs_cvGtuXNoM_9RrwQFGTYN9uvCc1x1bDapMA0FZ5140YAtweQLg9UvQ5EoyWu357AmBztY1JYm8BLBK5oLg8pRr6wcChquoWomreMDqpRbcax4lif0j6aL2BJn37ctAQhGhjN7rjxtNKN1DXBxuFKpaNBQ_9XCnS0A2KclMEy\/s1600\/1226110m.jpg",
+  "Explaination": "Her iki yayanın da size karşı önceliği var. Caddeyi tamamen geçinceye kadar dönüş için beklemelisin",
+  "Answer": "Yalnız III",
+  "Video": 1
+ }
+]
