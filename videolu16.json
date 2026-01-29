@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "تقود بعد أمطار غزيرة. في هذه الحالة، ما هي الحالات التي قد تواجهها؟\n\nI. قد أواجه صعوبة في ملاحظة المطبات على سطح الطريق\nII. يجب أن أترك مسافة أمان طويلة بيني وبين المركبة أمامي\nIII. الماء المتطاير قد يؤثر سلباً على رؤيتي.",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) I و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnc4umWorRxv1Qo8kG1-LYx7Mb9oBDKMldLqZPJWZpQmyaf1vLnWHkJJEe1Rsf-47_AoHGkmgyjfRYKVthNfC8RpQE-tZ80I82DQvEvhL5r2UO700phj0FRlK24hxZEszLFN0Pgdh-sVzEbd2DlSohN_cAbeQ_WxWAVUmn5suJpR71oCMJuGnAjyQKRDYs/s1600/1103007m.jpg",
+  "Explaination": 1,
+  "Answer": "D) I و II و III",
+  "Video": 1
+ },
+ {
+  "Question": "وفقاً للفيديو، كيف تتصرف بشكل صحيح الآن؟\nI. أنتقل إلى مسار الوقوف على اليمين\nII. أبطئ سرعتي\nIII. أحافظ على سرعتي",
+  "A": "A) I فقط",
+  "B": "B) II فقط",
+  "C": "C) I و II",
+  "D": "D) I و II و III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) II فقط",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/38/f9/33/38f933984a18b94b65399c35deba6d96.mp4"
+ },
+ {
+  "Question": "تورطت في حادث أصيب فيه شخص. في هذه الحالة، ماذا يجب أن تفعل؟",
+  "A": "A) أبلغ الشرطة بالحادث فوراً",
+  "B": "B) أبلغ الشرطة بالحادث خلال 48 ساعة",
+  "C": "C) إذا كانت الإصابة خفيفة، تتفقون فيما بينكم",
+  "D": "D) إذا كان الخطأ في المركبة خفيفاً، اتفق مع الشخص",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ9tBVHW2n0GslJvv6BFH5T3SxAT0bVZyH5GxqtI6PMnkIw1OtyJd0nNlqbdAV_GWsZeGrjSf99VGE6jZovjpTtGsiA7MZK-iS7AwdwT9IIlwApizAbFUmvNHq3NBxJ9-LnSqiU6Rnl96OTu8j5fa9CQAWKMBszZERuepctII4UAlXpKZiD8YyeEETpj6e/s1600/Trafik%20Levhalar%C4%B1%284%29-min.png",
+  "Explaination": 1,
+  "Answer": "A) أبلغ الشرطة بالحادث فوراً",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا تعني اللافتة في الصورة؟",
+  "A": "A) الطائرات تطير منخفضة من الأعلى",
+  "B": "B) الطائرات تهبط على هذا الطريق",
+  "C": "C) هذا طريق يؤدي إلى المطار",
+  "D": "D) هذا مكان هبوط للطائرات المروحية",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHyQOfD5RP5-zPKw7g-l03a54Qjodm2kHGBwBLKDiFz0Vlstbm57GfL3DWJlh7llHmOx2kTQLeTQOX5I22-uWcfJZQ1oZT12viUerEnXs8ETOt-vrBtvvrENwKiSlOIyZODtvFPNAW9wJJmlNSNmEbUjO6bo8uRIPlIxDt8Jfv7dk9aoWr9rHgNFizkP0O/s1600/vlcsnap-2024-06-16-16h43m40s999.png",
+  "Explaination": 1,
+  "Answer": "C) هذا طريق يؤدي إلى المطار",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا تعني لافتة الطريق في الصورة؟",
+  "A": "A) لا يمكن لمركبتين السير جنباً إلى جنب",
+  "B": "B) لا يُسار في المسار الأيسر",
+  "C": "C) التجاوز محظور",
+  "D": "D) نهاية حظر التجاوز",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy26efGEBrfaTGoqNZRvtDdQywdpfDaEWBjEsUfUVB9lZBlqONeNH2Zn9L7uI-9EBum-UVgL9Ks5GIGCS6qHAUIqyfInF5Icf7_JdWxze_8cYqC0pWPwe_TE5BFkXOQjpPBCmJmrpnszZ1tD8_gb__mmE1sy5SJ-S-7ZnCd00irmXv5FS0dd7b3kyY-oiE/s1600/vlcsnap-2024-06-16-16h57m27s201.png",
+  "Explaination": 1,
+  "Answer": "D) نهاية حظر التجاوز",
+  "Video": 1
+ }
+]

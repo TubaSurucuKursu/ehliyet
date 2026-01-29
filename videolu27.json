@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "في الصورة، أي المركبات يجب أن تشير؟\nI. [السيارة الحمراء]\nII. [السيارة الزرقاء]\nIII. أنا",
+  "A": "A) II و III",
+  "B": "B) I و II",
+  "C": "C) I فقط",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimXngYl0TU7VAzxHCNzovwRpipoq9XxwgFt3Twmw_50Sn0C_VrA7Bjt5JYjF9EOpefYYMPgi40phd7wDQede8sPXFA5xazqMDyBH_Eva0M9L2zZwbf3pp68gSte5S7LiH8rV2RlncFStxHB6biYduuvfOClkjV0ZKsj2_nR0yWQYMpuRs15vZfAzVOtbRF/s1600/1209133m%20%281%29.jpg",
+  "Explaination": "السيارة الحمراء تسير مباشرة من طريق جانبي باتجاه الطريق ذي الأولوية. لا تنعطف، لذلك لا تحتاج إلى الإشارة. السيارة الزرقاء يجب أن تشير لأنها تنعطف. يجب دائماً استخدام الإشارة عند الانعطاف. العلامة الصفراء والبيضاء تُظهر أنك على طريق ذي أولوية ولديك حق المرور على طول الطريق. العلامة الإضافية السفلية تُظهر مسار الطريق ذي الأولوية المنحني. إذا كنت تتبعه، يجب دائماً الإشارة في الوقت المناسب.",
+  "Answer": "II و III",
+  "Video": 1
+ },
+ {
+  "Question": "ما الوضع الذي يجب أن تعطيه للشخص الذي لديه جرح نافذ في صدره؟",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTKWFi6mAyo2l_02tCQ6VKfrynfinnR7KoTmEatDsrgcassljbL-_VOYDSM9I9pivnSjA-1N9aFKnL97NkfzNu1R_W0MtTNoNFXYrf1WLUKsKjre1lZ7ibYrKFB29hk_aeWvmR1jxZFZ36AyybiC-uSguAjg0IRlnPBScBLaM43onICUl7wxUczlXStiIw/s1600/vlcsnap-2024-05-26-17h58m13s015.png",
+  "Explaination": 1,
+  "Answer": "D)",
+  "Video": 1
+ },
+ {
+  "Question": "وفقاً للصورة، أي من المركبات المرقمة يقوم بتجاوز خاطئ؟",
+  "A": "A) 2 فقط",
+  "B": "B) 3 فقط",
+  "C": "C) 2-3",
+  "D": "D) 1-2-3",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyaLcaL1q0CzNjl1-7Kac8RngvnrotKGXcrgD_Ymz_ye52iEhaDMIe8C-DiEIv6dyUrSDQNv5XKh9Rb3t0Wiovg-0B7HLJ5GE79C0ab4UAr2r1FbARyZ4me31v9vFOiRYqjn4l_ScbbqgR68xyQMXyAw6suGnwQig7vD9FXf4hJzfvaEx6TVB8MnUxGW4B/s1600/Trafik%20Levhalar%C4%B1%20%281%29.png",
+  "Explaination": 1,
+  "Answer": "B) 3 فقط",
+  "Video": 1
+ },
+ {
+  "Question": "على الطريق في الصورة، أي من المركبات المرقمة يمكنها الاستمرار في طرقها بسرعة 70 كم/ساعة؟",
+  "A": "A) 4 فقط",
+  "B": "B) 1 و 2",
+  "C": "C) 2 و 3",
+  "D": "D) 3 و 4",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipPlY4f61gC0J1dyS2WGhqiWtnJdAlGKAAlSnxGgL5y7hJCSAhXtqMtxHTm_R5jGTgxPVRtT6Epk71HLU78_C0XTngUjthJtlQwSDlEEl3Seo8NgDEH3zvoLN4VvfE5ycWnfK8C2jzPhMDjRLYPNOzCp0NWSJCyGbA-JwQF8P8jYVqG08lnEetmAhNRuJ-/s1600/Trafik%20Levhalar%C4%B1%20%282%29.png",
+  "Explaination": 1,
+  "Answer": "B) 1 و 2",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا يجب أن يفعله سائق المركبة رقم 1 لتقليل خطر الحادث؟\n\n1) زيادة مسافة المتابعة\n2) تقليل سرعته\n3) الانحراف إلى يسار المسار الذي هو فيه",
+  "A": "A) 1-2",
+  "B": "B) 1-3",
+  "C": "C) 2-3",
+  "D": "D) 1-2-3",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 1-2",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/7d/9a/c2/7d9ac233b55be72134bc57243cddfb9a.mp4"
+ }
+]

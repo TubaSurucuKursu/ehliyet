@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "ما هي الطريقة المستخدمة في الشكل؟",
+  "A": "A) هايمليخ",
+  "B": "B) رينتيك",
+  "C": "C) انظر استمع اشعر",
+  "D": "D) تيسكيرجي",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARrkJNMN6ymhMO5ABZLEgtCRIg8FmnKNJ7Yud6FIci9cPtFwTnxaQkaUjdoKheGgoTQsfgDqC-4rYDHlRl0IAF2rFDJfpuQgwO5V9mAnKHHEvt18Flge6z2gO9RSbOfhtDj1qJvBLoK3bWRiuk7rwGcDg6KMSOvpJA777dLNlD-fty-vBi8z4FSM9uSFP/s1600/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
+  "Explaination": 1,
+  "Answer": "C) انظر استمع اشعر",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا يجب أن يفعله سائق المركبة رقم 1؟",
+  "A": "A) انتظار مرور المركبة رقم 2",
+  "B": "B) التسريع والاستمرار في طريقه",
+  "C": "C) إعطاء إشارة الانعطاف يميناً",
+  "D": "D) الانعطاف بمنعطف ضيق",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj20VMrs1WUrv4iCIH15jtJBuvfezbg84dxLNHumVOTdSm2nBLxEnSqfZs4Vye-JYHFgNkjeEWbyoCqN1fq5T-RdEsZEbj-Jm-YbSCHZr8601L8dpv_FBseePsawFxofaUZ1pycNAzuP5hIKWxRPojP2giFUwXMx9rNLLP-8uc5f-xCEF4mPdceWNhMERL/s1600/vlcsnap-2024-05-27-10h06m00s259.png",
+  "Explaination": 1,
+  "Answer": "A) انتظار مرور المركبة رقم 2",
+  "Video": 1
+ },
+ {
+  "Question": "وفقاً للصورة، ما الذي سيكون صحيحاً فعله؟",
+  "A": "A) إعطاء المركبة رقم 1 حق المرور للمركبة رقم 2",
+  "B": "B) انتقال المركبة رقم 1 إلى المسار على يسارها لتسهيل مرور المركبة رقم 2",
+  "C": "C) انتقال المركبة رقم 2 إلى المسار الأيسر بعد تجاوز المركبة رقم 1",
+  "D": "D) تحذير المركبة رقم 2 للمركبة رقم 1 وإبطاؤها",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQClJpzrpuqyOXBf16Gp26J6kt55w5s16HcqHcRvsqjAELys__pvFjzgDqXJcKZNaLZ992yJfXPwc4lsQfnJbKRRsxyS6STAtV7V23ZWCZc8MvWKt1t2-wpGsYWUObetfxld9V0i41KhtYMvUVUP8_hEJHYxGWxYYOhASeQQdkTI2Vo-sCo9ZIpYIdm6K0/s1600/vlcsnap-2024-05-27-10h28m26s914.png",
+  "Explaination": 1,
+  "Answer": "C) انتقال المركبة رقم 2 إلى المسار الأيسر بعد تجاوز المركبة رقم 1",
+  "Video": 1
+ },
+ {
+  "Question": "كيف يجب أن يكون ترتيب حق المرور؟",
+  "A": "A) 3-2-1",
+  "B": "B) 2-3-1",
+  "C": "C) 1-2-3",
+  "D": "D) 3-1-2",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 3-2-1",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/6b/25/e6/6b25e64a210913e1fab493f70c2de38c.mp4"
+ },
+ {
+  "Question": "خطوط الطريق وعلامات الأرضية في الصورة، أي من العبارات المرقمة تشير إليها؟\nI. أن الطريق ذو مسارين وثنائي الاتجاه\nII. أن المركبة رقم 1 يمكنها التجاوز عند الحاجة\nIII. أن المركبة رقم 2 يمكنها التجاوز عند الحاجة",
+  "A": "A) 1-2",
+  "B": "B) 1-3",
+  "C": "C) 2-3",
+  "D": "D) 1-2-3",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaMtAL301fQj4peDIO85XIDE3hj8Ok0-PlH3xIe-QqFJ5cJ-TAFZ1lf_2iJykp3WU3tXDkzPjuSLtCmCrEJ8yXtOu5lZdMzNpItSVZ-oJwpqIuIF5EGiNuYrVx8dLZF4Zb61YFJHcpvP4hmG6grPHNfV9DNJ4KaQpfh4YNnTCtM5hAS5ETVkVlYiROhuvH/s1600/Trafik%20Levhalar%C4%B1%20%283%29.png",
+  "Explaination": 1,
+  "Answer": "B) 1-3",
+  "Video": 1
+ }
+]

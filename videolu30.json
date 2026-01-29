@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "في هذه الحالة، كيف تتصرف؟",
+  "A": "A) أنحرف بسلاسة لتجنب عرقلة من خلفي",
+  "B": "B) أنتظر أولاً في الجزيرة الوسطى حيث توجد السيارة البيضاء الأخرى",
+  "C": "C) أنتظر قبل الانعطاف يساراً وأحرر الجزيرة الوسطى",
+  "D": "D) أعبر دون انتظار لأن السيارة البيضاء ستعطيني الطريق",
+  "Image": 1,
+  "Explaination": "الجزيرة في المرور: تُسمى الأجزاء والمناطق المحددة بأجهزة واقية والتي لا يمكن للمركبات التواجد فيها، والمبنية لغرض تنظيم تدفق المرور وضمان سلامة المرور، ومساعدة المشاة على العبور والوقوف، وصعود ونزول الركاب من المركبات، \"جزيرة\". يمكنك رؤية الترام القادم من المرآة الجانبية. السيارة البيضاء على القضبان. يجب أن تنتظر حتى تترك هذه المنطقة للترام. فقط قود نحو الجزيرة الوسطى، إذا مر الترام والطريق نظيف يمكنك المرور. السيارة البيضاء يجب أن تغادر الجزيرة الوسطى بأسرع ما يمكن حتى يتمكن الترام من الاستمرار. يجب أن تعطيه الطريق.",
+  "Answer": "C) أنتظر قبل الانعطاف يساراً وأحرر الجزيرة الوسطى",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/ed/96/35/ed96358983b9979f95d23b7b07750f78.mp4"
+ },
+ {
+  "Question": "شاهد الفيديو. الآن لماذا لم يُسمح لك بالانعطاف يساراً؟",
+  "A": "A) بسبب السيارة [الخضراء]",
+  "B": "B) بسبب السيارة [الصفراء]",
+  "C": "C) بسبب السيارة [الحمراء]",
+  "D": "D) بسبب [المشاة]",
+  "Image": 1,
+  "Explaination": "السائقون الذين يسيرون مباشرة لديهم حق المرور في التقاطع. أي يجب أن تنتظر حتى تعبر السيارة الصفراء التقاطع قبل الانعطاف.",
+  "Answer": "B) بسبب السيارة [الصفراء]",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/7d/e6/f4/7de6f4a532b3208468cf1cfd5dcca69d.mp4"
+ },
+ {
+  "Question": "لماذا التجاوز على هذا الطريق المثلج خطير؟\n\nI. لأن الطريق قد يكون جليدياً في أماكن\nII. لأن مركبتي قد تنزلق\nIII. لأن رؤيتي قد تتأثر سلباً أكثر",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-lQhhoGHB1Z1IHIJXZSWMh3xeu9KZ5utudiQr6Z20KtviDCjUrJz-Th0TK3vvYKhWE_SOqrlE0HZnjtBMs_rHQBG-Bnk_g7ues9hyphenhyphenIyqMi14QBs_BEjdFuVSPGo18bIXnmaZ3VW2YlCHRqNFoODoII2eNy8dDxjxMoIafGMLYuVbruarqXD-Euuc_yVh5/s1600/2103124.jpg",
+  "Explaination": "تحت غطاء الثلج، قد يكون الطريق جليدياً في بعض الأماكن. هذا قد يسبب فقدان السيطرة على مركبتك عند التجاوز وتعريض الآخرين ونفسك للخطر. الثلج على الطريق قد يسبب انزلاق مركبتك وعند التجاوز قد تفقد السيطرة على مركبتك.",
+  "Answer": "D) I و II و III",
+  "Video": 1
+ },
+ {
+  "Question": "[سائق الدراجة] يريد الاستمرار مباشرة في طريقه. كيف يجب أن تتصرف هنا؟\n\nI. أبقى خلف [راكب الدراجة]\nII. أتجاوز [راكب الدراجة]",
+  "A": "A) I. صحيح II. خطأ",
+  "B": "B) I. خطأ II. صحيح",
+  "C": "C) كلاهما خطأ",
+  "D": "D) كلاهما صحيح",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgchBlVj5LoGPQTVI7mFKsH3JBKXC77u_j5SeKBVN4slum9mekZyvHQlcj6_yHdvkd5Jlv-MDKF8GRFm9SF-KWBRfmmE8ZHwDlyDCtXEGtBBem1jXV2G-Zh4ig0GVJYnVSWMDlESyxYv3MNY7t92xJNoePJI8AifOS1Ohvw5SOkGE317F8evKm2euJadZzl/s1600/1209131m.jpg",
+  "Explaination": "يمكنك الانعطاف فقط عندما يعبر راكب الدراجة من الأمام.",
+  "Answer": "I. صحيح II. خطأ",
+  "Video": 1
+ },
+ {
+  "Question": "أي سلوك صحيح؟\n\nI. أستمر لأن كلاهما يجب أن يعطيني الإذن\nII. يجب أن يعبر قبل الشخص القادم من الأمام لأنه ملزم بالانتظار\nIII. يجب الانتظار لأن كلا الشخصين لهما الأولوية",
+  "A": "A) I فقط",
+  "B": "B) III فقط",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy9G2jTonBxphYb-90MDSs_cvGtuXNoM_9RrwQFGTYN9uvCc1x1bDapMA0FZ5140YAtweQLg9UvQ5EoyWu357AmBztY1JYm8BLBK5oLg8pRr6wcChquoWomreMDqpRbcax4lif0j6aL2BJn37ctAQhGhjN7rjxtNKN1DXBxuFKpaNBQ_9XCnS0A2KclMEy/s1600/1226110m.jpg",
+  "Explaination": "كلا المشاة لهما الأولوية عليك. يجب أن تنتظر للانعطاف حتى يعبرا الشارع بالكامل",
+  "Answer": "III فقط",
+  "Video": 1
+ }
+]

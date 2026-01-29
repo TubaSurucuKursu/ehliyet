@@ -1,0 +1,901 @@
+[
+ {
+  "Question": "SORU",
+  "A": "Motorlu Taşıt Giremez",
+  "B": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "C": "Motosiklet Giremez",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgHfy50dWLJc8TwtxphaWOS61egt6A1ttZ4NwME3W2Bv2OKkvUiCr10zXmR1n82wd33VSNT9tLLRktsXCPGa7RivgeSwHJxJJ6S_VIv8q63-O-C-_ANSKUwKFM-lLn8JjOAlMYEpDEZD9kRqw50w1r0RdEfy7b1B0De8nMobtBfr7D7Z6BJhs2WiwNjXf7o\/s1600\/Trafik%20Levhalar%C4%B1%2812%29-min.png",
+  "Explaination": 1,
+  "Answer": "Motorlu Taşıt Giremez"
+ },
+ {
+  "Question": "SORU",
+  "A": "İki Taraftan Daralan Kaplama",
+  "B": "Sağdan Daralan Kaplama",
+  "C": "Soldan Daralan Kaplama",
+  "D": "Sağa Tehlikeli Viraj",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi1Iy5GKm0wD83RRPlaHEiPG6NHL6wD-09KvruVP6jmk3Y3YG_baUgH2lA497c9n7Vi5Y_UEV1AmdV8TIuzTe0sSVZnIstqjFqWfh2QhqgCkOnrvYI2yFGgsZ7QTKJ4hX4I3F0L4wvhsiBFb1oGwdyEJ50r0UF_KoEL7py3pBySYvE48SAm9YgmZK4IuMuX\/s1600\/Trafik%20Levhalar%C4%B1%2813%29-min.png",
+  "Explaination": 1,
+  "Answer": "İki Taraftan Daralan Kaplama"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yaya Giremez",
+  "B": "Bisiklet Geçebilir",
+  "C": "Mopet Giremez",
+  "D": "Girişi Olmayan Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjfQHoWXNWwdsBXkGJXbtze3bsF181YD50fDyLFvH1uiOgSuAYkM_JXG7yWPUPxlLZErzkytWZ-mycfb55Yg5LdE2JYwucTocdvf73Rm7qWa8RUkDyWbbIAVBxZR93tNsPyDAf_g39Ov6IfCPTaae-e7ZyPO9iKNgPNmys6nHBUpzD2TKuTUbmIEQPNTzm7\/s1600\/Trafik%20Levhalar%C4%B1%2814%29.png",
+  "Explaination": 1,
+  "Answer": "Bisiklet Geçebilir"
+ },
+ {
+  "Question": "SORU",
+  "A": "Soldan Daralan Kaplama",
+  "B": "Kaygan Yol",
+  "C": "Açılan Köprü",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiUmthumU50MLoWxjPsx6DrzcVwy4gPHith7tYrHkUSocRqajw4mbwlxtuFfVN0GUXScrPuF7MYQMwJvNZrHrlmQMfjyKHQP4sVaLGHgvdOFu2Qt_NmpqvixHXmDon_YB0xvndgt7N8GxrXOt5_GJkL2vkQ7tpNCUaVck1PTnh2TsE0m-z-tPzrk0eOo9Er\/s1600\/Trafik%20Levhalar%C4%B1%2815%29-min.png",
+  "Explaination": 1,
+  "Answer": "Açılan Köprü"
+ },
+ {
+  "Question": "SORU",
+  "A": "Sola Tehlikeli Viraj",
+  "B": "Sola Dönülemez",
+  "C": "Sağa Dönülemez",
+  "D": "Sağa Tehlikeli Viraj",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh6BxY9b0Nbv-fU5MbhuFSyKYcbu-3ozV3mi-UkcijKK-_hmJBOqMD1tecD2G_vfjS15wlaAZyeeykUfhyphenhyphen464KAS-NJYftNn4_QpT6Ds_anuMqJLqHf0ko-UcwTCbJMVHcUEfb2IA9bBMNaY-OVuAqTjU9iKoMa9fEzjHVuDAGeb3nfdHhEM-6vVJIrzuEc\/s1600\/Trafik%20Levhalar%C4%B1%2816%29-min.png",
+  "Explaination": 1,
+  "Answer": "Sağa Dönülemez"
+ },
+ {
+  "Question": "SORU",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Park Yeri",
+  "C": "Duraklamak ve Park Etmek Yasaktır",
+  "D": "Park Etmek Yasaktır",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg2PRpJbyfsGTBPlZ9r0hkfNk54ktGipIOy0_fMxAUnKxO-kdiUm0kbm3YyZXTVqj2WIGMUdN9Mzw9yAtPu6UREL0YXjrPaFauKzlNq2wwy4x4HFJrvt3tm2jEioJ6ev6rmdr1YdFHEcydHF658W3cleYFMaimNGdsJJ0gYrHYD4GEJwVRs-PR7GsXGgbA8\/s1600\/Trafik%20Levhalar%C4%B1%2817%29-min.png",
+  "Explaination": 1,
+  "Answer": "Park Etmek Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "Azami Hız Sınırlaması",
+  "B": "Sesli İkaz Cihazlarının Kullanılması Yasaktır",
+  "C": "Gümrük (Durmadan Geçmek Yasaktır)",
+  "D": "Motorlu Taşıt Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgZWVzDlxJ8AIO8TJwKlUsa78x3qOiV9gtGGNvw6HZSNJcAkVZ-q_JhGJFXhNTC-paNBzIj6eQH-WKsXvT4ESVnYfu-CQZAlqPAwtttTpB6gV43DMmJAQo_pVBtSYRUygtqRZSVMZBwzbYyarq7uHdN2boe1W-dIDnt6rDnay6QRv84wSJQww2FdlZRTiQt\/s1600\/Trafik%20Levhalar%C4%B1%2818%29-min.png",
+  "Explaination": 1,
+  "Answer": "Sesli İkaz Cihazlarının Kullanılması Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "B": "Yaya Giremez",
+  "C": "Azami Hız Sınırlaması",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjuA97Rp7KycWNX9OFcPJIzLOVCzLBwXAcK8ASkB2J8_W5by6IKVl86936_D3qayJyZ2PP4JmQz5G47x7yAH-VExAPBpspf1tWX5FIEtvLi9ZAfkUQaBIt06MhfnM79g7UFEuMN7zFgTVks8KlBA_xmDmnkSvgXjS4ZsUe9ZoeePz5Q2cemfB5gCr6og8GT\/s1600\/Trafik%20Levhalar%C4%B1%2819%29-min.png",
+  "Explaination": 1,
+  "Answer": "Azami Hız Sınırlaması"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Taşıtı Geçmek Yasaktır",
+  "B": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "C": "Azami Hız Sınırlaması",
+  "D": "Taşıt Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEinzlmxGcYH0AVW_QBzRAZIxyX6QF6WBSIxyd59pPZkXZEvJXYNQK4Ia24BHHX7aypyqWNep7XVvxk_AfO2rWUef-wCMMXeREwatURQ1zewHCReYu_EDbcop0TifoqDOpZXDunBR1b0xr5G7WIp3verXTnDSARWoybJrBvsrlN-aH6-DqYc_J1XvRKCgRXT\/s1600\/Trafik%20Levhalar%C4%B1%2820%29-min.png",
+  "Explaination": 1,
+  "Answer": "Öndeki Taşıtı Geçmek Yasaktır"
+ },
+ {
+  "Question": "SORU",
+  "A": "U- Dönüşü Yapılamaz",
+  "B": "Sola Dönülemez",
+  "C": "Sağa Dönülemez",
+  "D": "Öndeki Taşıtı Geçmek Yasaktır",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgj6EUS8pGGEZKfIKNVS4ETLWZuqJwYxhg0wUH0ItZOlxN71HUi8giJFjxqYbHsjq27GqNAkC-gljzIhlzwtqW79lYyfIIRXhD0-DwhyUQ7W3mTugc9ntkpAG5GubhQjOYA4GTFmgee-nub-IWvzehyphenhyphenJ_Iwic2NUaEvlAdpj7997No4WGJxaA6kaWLfUqb0\/s1600\/Trafik%20Levhalar%C4%B1%2821%29-min.png",
+  "Explaination": 1,
+  "Answer": "U- Dönüşü Yapılamaz"
+ },
+  {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dönel Kavşak",
+  "B": "Tehlikeli Viraj Yön Levhası",
+  "C": "Düşük Banket",
+  "D": "Gizli Buzlanma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgcYwURHc_zEXEwi1i_Hp_IeMYkJNXLr3tzvJKAqzRugDP1Nmq1f6OPKsyEdG8oyscm4EHCN8zmdSUG6sopA4_99Aoevu10Fvqrza3mJj_jDu1Z4gAgb_VMw_y-3K1hEDX8G0jidprrAngsDE3B0FJqz6CkcB_eP7vtPchqpRf7Os0DX2NnZBwEFx3IX2c5\/s1600\/Trafik%20Levhalar%C4%B1%2822%29-min.png",
+  "Explaination": 1,
+  "Answer": "Gizli Buzlanma"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gizli Buzlanma",
+  "B": "Düşük Banket",
+  "C": "Dikkat",
+  "D": "Gevşek Malzemeli Zemin",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhJjSm9DzsTIHXHdztLFekEJuVMfr1boVcXwVSWwbq1E_ppHTXpcMBEIeQcyZYYdtZ_0-RuTwlQKqtUvMM3vE8MJzPKyUQ1iInMvj0QtSAZvi97pR8e1L8Lo8t8ePor2-JiYjzRN7D6GpGjMa42dqfcBFS9W0UVzw-2-8H3hIpZr-T0NmXnYCMhCuWYivg7\/s1600\/Trafik%20Levhalar%C4%B1%2823%29-min.png",
+  "Explaination": 1,
+  "Answer": "Düşük Banket"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Yol Ver",
+  "B": "Taşıt Trafiğine Kapalı Yol",
+  "C": "Girişi Olmayan Yol",
+  "D": "Dur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhJNPi4YjnzijNdxBAthsPn2WN8_usYtah7zVwhyphenhyphenEDC7aWXy75B1-j4MTPGMzqarx77uuglihlHa0jRAnRKPRUxq4_5E2vq86UQs3I177cje1M_lh8QpMpfKKsb4pBr_Dt_SJvD9ZsFtWf7skZ406D9KBkbhGhUwECN8A2oLSA7N_RJkJghLMFf7eFRAZNs\/s1600\/Trafik%20Levhalar%C4%B1%2824%29-min.png",
+  "Explaination": 1,
+  "Answer": "Dur"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Taşıt Trafiğine Kapalı Yol",
+  "C": "Çocuklar için dur",
+  "D": "Dur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiuNBkIlfdf3PbSd1uUT8wtQ_9iybelaHSER6wcgVq6pHD_w9vAZHEJpSfZqJF7Ki04tmGS1EJRM0V-Stx52C9_hueKJwwaFvwa2kWtEtUOJPP1xDNLvNucsJXTZVyRgvvF3MjagCjW7E2KIItfKeBPL8upXuohLS-pypKv_Hh0HiuxVaOf6ivz-96FDy8w\/s1600\/Trafik%20Levhalar%C4%B1%2825%29-min.png",
+  "Explaination": 1,
+  "Answer": "Çocuklar için dur"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Karşıdan Gelene Yol Ver",
+  "B": "Girişi Olmayan Yol",
+  "C": "Taşıt Trafiğine Kapalı Yol",
+  "D": "Yol Ver",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiaeVJ5fDxIfWhq3jfFmRUf37JFWbhHzsajbfehju2eNu8npbXU0zyKEEj6RyDY8CErEJz9PouE8KijZkKUb1Hh-DJGgNGzk8aIVhppmxBv8Y04d2jpO_uIvCLhByE1fAwxeznlslQ2DKxqQCKYpI1AY17QQoZJ12EMgD4EFQhL-DMmen7kxg6qFPtQkxdP\/s1600\/Trafik%20Levhalar%C4%B1%2826%29-min.png",
+  "Explaination": 1,
+  "Answer": "Karşıdan Gelene Yol Ver"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Bisiklet Giremez",
+  "B": "Girişi Olmayan Yol",
+  "C": "Taşıt Trafiğine Kapalı Yol",
+  "D": "Dur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj8shCeHl9fZFb96laK2vCczJah6h95OT8YI9RO0G_Tfo0bM4REDeSTTjEiNLIqy2Q5w-OeRHRmTPb0pCI9nOmPgGW_AYrZSgCaCfKYIXevRITbSvc-yFD1XiMj4kQQg3B1Ek1d6_BMtqHBkXao1jN7_vuRq7HdVdFcTG1RlVvFkpbe1FOSUDxC2KhdZWkW\/s1600\/Trafik%20Levhalar%C4%B1%2827%29-min.png",
+  "Explaination": 1,
+  "Answer": "Girişi Olmayan Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dur",
+  "B": "Yol Ver",
+  "C": "Girişi Olmayan Yol",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhN4tTFVXXAXW0Vf7DXIa50A6Ov4UnnZqKOEeGcZ8MjLa8MudNWUxqdb6s0_8LJCSg-KATKdTu6RNBzqQ6EGUQvai1XFoGAw5UUT_F5GgxApWo1GpHrdkVvg_MIztOxMq8APpWOHBbFevLvg0XQR5drCT7Tx7_yaEJp52KdmeKURDUMuiHqSGQXCncdc5bW\/s1600\/Trafik%20Levhalar%C4%B1%2828%29-min.png",
+  "Explaination": 1,
+  "Answer": "Taşıt Trafiğine Kapalı Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Karşıdan Gelene Yol Ver",
+  "B": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "C": "Öndeki Taşıtı Geçmek Yasaktır",
+  "D": "Yaya Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhp___D6mn26e43L8tuq-Mzkmcp6v1c0KsJyIcO0_2GcRgPvNHjwP1dlcvcoAhAgKK8GVQsNy4dLcEg5uHdUL-B4GIhufF5z4x1GgX7249YN7-rzy4ahupHLf18kBLXbWV4L2S13FFL_lFfPkhxI8R_Cze_1sTtG-arJR4tseeOFvMxvi1BE7hol7wi8fR2\/s1600\/Trafik%20Levhalar%C4%B1%2829%29-min.png",
+  "Explaination": 1,
+  "Answer": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motorlu Araç Giremez",
+  "B": "Bisiklet Giremez",
+  "C": "Motosiklet Giremez",
+  "D": "Mopet Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjlMC6CVsY_9oF4d5dRhXyIVnOKedXV8uK6V2GULVP0l1xyJl-f8KSJQfWngGdpjyskL2ynfGDA35zJO68TtRPDZ1qcvAKu8a6FnTLer2YhQ3OzdRTpz10pN3pKcHp45TRptu78uGu9z3QYu4jObPA_0atUUG1TcO1d4kj-SewF2dURCz860K-VN6FBKhyR\/s1600\/Trafik%20Levhalar%C4%B1%2830%29-min.png",
+  "Explaination": 1,
+  "Answer": "Motosiklet Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motorlu Araç Giremez",
+  "B": "Bisiklet Giremez",
+  "C": "Motosiklet Giremez",
+  "D": "Mopet Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhJERvB6xh6WbJuj8wvi07BiVmhv57ZGnxGlwynHNJG4kdwCJd57-wT_Mh2NydEur3pw6JAG7wTxaq5gcCvGrQ-vZeoqSc4ZhFRE7GEIYh9_FBfRH45Vz0Tk_bLhr9c10vJEvd1-1YAnjB2ebrG9hF_wlb5oPw-L9uJbGvRj_LzB7mzylB7G_J7WwfoXqu5\/s1600\/Trafik%20Levhalar%C4%B1%2831%29-min.png",
+  "Explaination": 1,
+  "Answer": "Bisiklet Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mopet Giremez",
+  "B": "Motosiklet Giremez",
+  "C": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "D": "Dur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj0pGgvKQoCxVL9QJdyWR91sLPRo0Gsvox_Fd3O2fh3C9Iz4OlpV0VbVSZFLdr_bP569lly0vOJMh1gqvj9F-NHg6Gl9SpAhYxBTL8nWZBNUz8VIIT7GqEzsGi3PzTXG_1EG07c3WG3YzLpTC8Vc3FtxtAe6NkBxzUZFfT1Cf_OXY5fFMqC0Q6T64foiHNZ\/s1600\/Trafik%20Levhalar%C4%B1%2832%29-min.png",
+  "Explaination": 1,
+  "Answer": "Mopet Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Şev",
+  "B": "Açılan Köprü",
+  "C": "Deniz veya Nehir Kıyısında Biten Yol",
+  "D": "Gevşek Malzemeli Zemin",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjl9cVmrmdEBhsNiEaukqv3cc5IAaBa60h2HnEltqFzGoxLEf_cBMHVONtaGPRK4YDZhFuwQeW77vjOJuof4zmqUjVg0CA5TMogTPg2FdMe5tugvloAkZdNKI6JeH_xrOFmtlK8wskNIJuHpV6Qm99g9sC1r0dDmEu-pCZPkihIrGnSMZ16FkB-byvEGuh6\/s1600\/Trafik%20Levhalar%C4%B1%2833%29-min.png",
+  "Explaination": 1,
+  "Answer": "Deniz veya Nehir Kıyısında Biten Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kaygan Yol",
+  "B": "Gevşek Şev",
+  "C": "Tehlikeli Eğim (Çıkış)",
+  "D": "Tehlikeli Eğim (İniş)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiztKyqaOvPz31zdOJXFmUPAgc2bCepjuIolAoFYPxEAwH_STGuE0EmYz_kFxxMD3rE14VDPqragPRtBVHRqjL7G1ISp3v6e2xwtu4M2bvdeDEHDzHgaAsKk5xIC3_6VCyMoYJoUcoAm4S0yHmxVf3dtp1L-glWUNRaNErubLFu5-UOBiFWIQ5m5kK3klxQ\/s1600\/Trafik%20Levhalar%C4%B1%2834%29-min.png",
+  "Explaination": 1,
+  "Answer": "Tehlikeli Eğim (İniş)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Malzemeli Zemin",
+  "B": "Kaygan Yol",
+  "C": "Tehlikeli Eğim (İniş)",
+  "D": "Tehlikeli Eğim (Çıkış)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhcHdYS2aS1a9D3oZcBr74mcMqbl3xE-jN4BW-fhWiu38m3KtXEcVY7RNP5-M87FD-_uYTSmFRSnpE-7R5gx10riu5MjXnnYk0QpTN5y7RZr1MuBity0_KpVfsbPxr7-a2XmHSseIJPg0leCbSP4AauD3UPnxzQK0eiUgPn80v5hskBXCE_Q_0c-fkER_Ds\/s1600\/Trafik%20Levhalar%C4%B1%2835%29-min.png",
+  "Explaination": 1,
+  "Answer": "Tehlikeli Eğim (Çıkış)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dur",
+  "B": "Bisiklet Geçebilir",
+  "C": "Yaya Geçidi",
+  "D": "Okul Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjqN-ae2QyVqv-iJ8cSk4DPK9Esyxl45nKmEae3R-eCvW9ySnAJ2QbiCymkv74trG5p8ugDx5zogXiJ7Nyk9XXws1nIHTH3ORUH1Gmpgl55AiZHcnjOl7onpMQbv1kj1Zp9L6GM7aHMOoLtg2P2eIzyiNI5s57145aIiI2WPrQX79kyPPoJWRK1Unz2POZE\/s1600\/Trafik%20Levhalar%C4%B1%2836%29-min.png",
+  "Explaination": 1,
+  "Answer": "Yaya Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kasisli Yol",
+  "B": "Gevşek Şev",
+  "C": "Gevşek Malzemeli Zemin",
+  "D": "Tehlikeli Eğim (Çıkış)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjoGxe9f19nbJA6qJmbkBUXtkSNeG5YuDphI3vKJkNRUkOOFEHH-giV8OT0Ipc-8xA3H0hJlWiJtEod_hcRhIPGU78pQUKjVkIAgSm7Qyn7KstG0vhTskYjAC7AEF22YG6iKoCOvkZqKB4DkfB1M6gHPZCP6K1pB9K-ZR5w4C0D8d6Gb8vN411sIaQdg_xR\/s1600\/Trafik%20Levhalar%C4%B1%2837%29-min.png",
+  "Explaination": 1,
+  "Answer": "Kasisli Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Vahşi Hayvanlar Geçebilir",
+  "B": "Ehli Hayvanlar Geçebilir",
+  "C": "Yolda Çalışma",
+  "D": "At Arabası Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEimuSs6bZgzxix1cl8q43LU_VoyTXMPrtL_XjI-gyelhRqcBopAm83O1sQfVm03qVpC3j5nh71V2uPqNJWStVhTN1OvsM9KHevg96XzZLSI-5wxoypnVvj1SEbY9oUxpABzeDd13ajkfwPcO_RHkIT_H6ll_jsDGpd3FiIXYjU2EHgkP1lfsTSmPeEapjkK\/s1600\/Trafik%20Levhalar%C4%B1%2838%29-min.png",
+  "Explaination": 1,
+  "Answer": "Vahşi Hayvanlar Geçebilir"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Havaalanı-Havalimanı",
+  "B": "Yandan Rüzgar",
+  "C": "Işıklı İşaret Cihazı",
+  "D": "Yolda Çalışma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEho_ZSFX9Ts3X1aR_H86ZFmZs0WO6eYb97HsOreEpLh5KIcitSbpXWTMjCjat-P4oZu1C7d0s5GpRnfs0ZbErHZ7ck-z913RBtmwrfLDyXaVTGYlsUzBa21N6ZiAnhaCbM1F1NPcZMMMKJbMjsxTl1LpNH-qRH78hqACajmCjpXymIQXjqS6FUxhGefnb2v\/s1600\/Trafik%20Levhalar%C4%B1%2839%29-min.png",
+  "Explaination": 1,
+  "Answer": "Yandan Rüzgar"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "B": "Dur",
+  "C": "Okul Geçidi",
+  "D": "Yaya Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiXynDAKwJ0MdJrED2Ry5QbWi5kvRxxJNLSX6_dQj2tbXUk4aHR0m74tcAZmdZy39N0ayz70BOmhNCY74D5mn-0pBeb6PGz4Kub5UAyToKtabvSBTpFjzm8djoA7u1_rHjlOlVYe3zIbZBm2t54DqdHGQXPIG6o_J0DsrcFkkOuuSuB5Xybba8DCAk0ozNp\/s1600\/Trafik%20Levhalar%C4%B1%2840%29-min.png",
+  "Explaination": 1,
+  "Answer": "Okul Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dönel Kavşak",
+  "B": "Kontrolsüz Kavşak",
+  "C": "İki Yönlü Trafik",
+  "D": "Ana Yol-Tali Yol Kavşağı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg-uvvAJkQdsAF7U8VSI8dLl9udUeGcMiIeFewh-9oKAYRyD__aaOqpsLwxnLSKIu7DjKRWngGd6CU5L9q9Z9jskBKQg1S7M7dzIyrA3hvdc-ObjdVWFsAr6Uwnk8um4zkPhqrjfFAOdfXATNTFEshnZKGlW5eWsOrWTaJCBGR4R7XJakOsGJuTI4JmuXIt\/s1600\/Trafik%20Levhalar%C4%B1%2841%29-min.png",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Daralan Kaplama",
+  "B": "İki Taraftan Daralan Kaplama",
+  "C": "Soldan Daralan Kaplama",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiXS2xlDNs7sbHphMZX3HaVeRNCmS0NF5m_kvp3VxUaOfkkCP9J5zbdW7U8ooAZOLFaDt6fCgYUEU2X4EPTFeZq5ZEH-UtPX7YtIORn4l7tH9PxGJIFBo-6l4PWDDe2qDd38YPQ0Du8p0_EwkE7L7rpZczIYqB-0W7WexCAN4TOwdKdD3c7g8_oSl7NDjLZ\/s1600\/Trafik%20Levhalar%C4%B1%2842%29-min.png",
+  "Explaination": 1,
+  "Answer": "Sağdan Daralan Kaplama"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İki Taraftan Daralan Kaplama",
+  "B": "Kaygan Yol",
+  "C": "Gevşek Malzemeli Zemin",
+  "D": "Kasisli Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgYbWTnXf1kguE-mboi6DlRQt98ZtUkqZMagUKBnhJ6bJ5m8Ey0o88Vay7alWruTLmZdL43pb8z4tCt8w9vgGkNtNQHC2hDj9RYXXmuRuHGiDrDkmv5AgA8sG2XxxEliYBFCfgM5dpYS_k0J0lXzKjXVc-QVAjJc4GPS7WsmNe5LoyEgwal83cEuOPHasoN\/s1600\/Trafik%20Levhalar%C4%B1%2843%29-min.png",
+  "Explaination": 1,
+  "Answer": "Kaygan Yol"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağa Tehlikeli Viraj",
+  "B": "Tehlikeli Eğim (Çıkış)",
+  "C": "Sola Tehlikeli Viraj",
+  "D": "Sağdan Daralan Kaplama",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjme_kruuWPraT7QfK6HiKDs8qU9x1hrM5tTJfgx51y3k3PSfV3ddGG8jvFPhAXb1IDmWeVEERLpZtJSY57brZXG3h3NTz5ICLjtZk7Wk06Zb42hOhZ7r5n41JK_xGE325c6Ti_iDdwQhlFJunbSWTalViblRcP0Gtz91xiX_yLrKDHZvOpV72lNKoLScBI\/s1600\/Trafik%20Levhalar%C4%B1%2844%29-min.png",
+  "Explaination": 1,
+  "Answer": "Sola Tehlikeli Viraj"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Girişi Olmayan Yol",
+  "C": "Karşıdan Gelene Yol Ver",
+  "D": "Yol Ver",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgSDlNaXWwHnOzpEW0RntLdG1bKXWfa0Ei39EvrxtX_pee4erIaOHWLrm7lxbWXOFJHBbM70HwbUmLX99aYhy4cGIUQQcOYD42KJpUabnqDYvkDyeSVQ4wX1J5DIXCtTU79U07qzQUqbJPFqUA610jWuEHNyD6Xqi7c2TmKQzpZDZy8P31V6lhnakFG_YSt\/s1600\/Trafik%20Levhalar%C4%B1%2845%29-min.png",
+  "Explaination": 1,
+  "Answer": "Yol Ver"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Ana Yol-Tali Yol Kavşağı",
+  "B": "İki Yönlü Trafik",
+  "C": "Kontrolsüz Kavşak",
+  "D": "Dönel Kavşak",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi5yvfKaD1PPlqZwiaGeM8RnzwgurU-eqRfHVkOiOdA-iUAq8ZYsEKE3w1LFsKy5wv1MKRfRKtEtuzS42isX28tBqjhvJgRE5Fx4OF__a2gag66xDY5kwH04XBHjc3GpKoVXm6yDvNpJl5owx4_cPpbOY1a5a6rj0U-Zf5WjbsQitFjEh9KoxZhkxY8ZHlj\/s1600\/Trafik%20Levhalar%C4%B1%2846%29-min.png",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Soldan Ana Yola Giriş",
+  "B": "Sağdan Ana Yola Giriş",
+  "C": "Kontrollü Demiryolu Geçidi",
+  "D": "İki Yönlü Trafik",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhxBH2Zvgab8sP3EOJkOxASkzI9Bx6jAHRJtig2_wehXUn1Ngb7av4Nff68VYnOOdeduH99wXE0F9lpApDwKeA-6DGqmxFQLMPdCoT6ZzE29BiIjfp2WOS_y_cFEpIo6rZxSLTPnXULrKMctqbmfS7c7PIePb77_mJqcltdI9U5iyQYIFv1g8ZLeIkJBqzA\/s1600\/Trafik%20Levhalar%C4%B1%2847%29-min.png",
+  "Explaination": 1,
+  "Answer": "Sağdan Ana Yola Giriş"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Ana Yol-Tali Yol Kavşağı",
+  "B": "Kontrolsüz Kavşak",
+  "C": "Dönel Kavşak",
+  "D": "Sağdan Ana Yola Giriş",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhJFEatKuC3jFdxDBj2BWkChUAyJG99LMX73LjUGwWOAGFlKeIsbKIVUEp8oYsXjavJ893XHug040C2HikhlSu6dF0ZYs09yfo8NN1jq2L45daMamluDXzwwgTwtqUcdus8gx1Zs9WabmLUqrGqiZf7t2qypWTkZHpOImLMlbtGNMH9uSXMn9E_3fukZque\/s1600\/Trafik%20Levhalar%C4%B1%2848%29-min.png",
+  "Explaination": 1,
+  "Answer": "Dönel Kavşak"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Ana Yola Giriş",
+  "B": "İki Yönlü Trafik",
+  "C": "Dönel Kavşak",
+  "D": "Ana Yol-Tali Yol Kavşağı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhb7TWY86sT6_8ptZ8fxCodgkLbyWNkQLb404vAfpieamyV8Qd6jU0pKopSyEDXXMGEhd97L94Zbb2dNsgN9Li5mF3RlEnfnRdz-hEZHAN1mMpy6kgEC2CQM0PXv1mvTIhP5GOzrhdcBfpK-z1zD1MsB_uBdZ_ik8Iid2-1Ou73kVLDM2_BrIwdW-lLBDRF\/s1600\/Trafik%20Levhalar%C4%B1%2849%29-min.png",
+  "Explaination": 1,
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kontrolsüz Demiryolu Geçidi",
+  "B": "Dönel Kavşak",
+  "C": "Engel",
+  "D": "Tehlikeli Viraj ",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjIiYRtNL1uGI0-YRHlhZL9AOn5z3aDKN38aq5mZ166K1LEi1iVsesmgK3x1Ojian7blk6_9ulQ58Yy8JTMh3Hi0_lWzxKEpjIlpRWeYBTRHdbzleQBGDpIgRiE7ceR-sUCUDTlXpryeob8Wrzls4IxdvOt59qNtkjD0GuybEw7jvJdVjaey8O49mGcpd1A\/s1600\/Trafik%20Levhalar%C4%B1%2850%29-min.png",
+  "Explaination": 1,
+  "Answer": "Kontrolsüz Demiryolu Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Soldan Ana Yola Giriş",
+  "B": "Sağdan Ana Yola Giriş",
+  "C": "Ana Yol-Tali Yol Kavşağı",
+  "D": "Dönel Kavşak",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjJtsVEvEBCjRN4aL-mllzJK-TkH_WNkt6vErId1ggshT2xPeHNm7ennJ6vB6SjxZWFPrwTgFKDSbIax8suwyumn-ZL-xTt621h83bmJfhxQ0o7q5kDw5PpSvFFHzEvFPcjcxRQGIs96YUUCsTJZcL-F0Rmx8D8XKh-5k-YvvCYle3ph9gNaJojv3AVtxT1\/s1600\/Trafik%20Levhalar%C4%B1%2851%29-min.png",
+  "Explaination": 1,
+  "Answer": "Soldan Ana Yola Giriş"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Taşıt Trafiğine Kapalı Yol",
+  "B": "Motosiklet Hariç Taşıt Trafiğine Kapalı Yol",
+  "C": "Bisiklet Giremez",
+  "D": "Bisiklet Geçebilir",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhfFl10hdwFFLItVb5JIVzPQ5iE02UvQk4qKSSpstirjVTlUxm4HwPWgMPRYMtLeWNRz5TzYkkE4p7Ghyphenhyphen2tkxY_K7fSPSagu4ViCN5N6Ng7OlG1gXMLmHzxxBIXp9hquhHnABVDi5Grc6ZClCP-ZAlFSLuh9MROZO6jm9-ZHg2TOpRHQsNTerX6xbNqHnVh\/s1600\/Trafik%20Levhalar%C4%B1%2852%29-min.png",
+  "Explaination": "Bisiklet Geçebilir",
+  "Answer": "Bisiklet Geçebilir"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Havaalanı-Havalimanı",
+  "B": "Kontrolsüz Kavşak",
+  "C": "Kontrolsüz Demiryolu Geçidi",
+  "D": "Işıklı İşaret Cihazı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgpdNnugz2yuFAnY8R2UvFQUgu_QnHpWi889hayXAAattmK0qOuUQZrnw_McgHe7AiL8xTI5R5XZPFVCV-cgJTjb68FXWy7auh4bSEYwmp7SXVU3kDYuv7Njb1efjejf805bkoxWym4L5nuyl9N4k42ej70uKYxWeHIhgOOfj4mzT4DSpD_a9_CsIvyWYfS\/s1600\/Trafik%20Levhalar%C4%B1%2853%29-min.png",
+  "Explaination": "Havaalanı-Havalimanı",
+  "Answer": "Havaalanı-Havalimanı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kontrolsüz Kavşak",
+  "B": "Ana Yol-Tali Yol Kavşağı",
+  "C": "Dönel Kavşak",
+  "D": "İki Yönlü Trafik",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEicyXcoGPFK-gaUrVI6aysJXYXepmLs1-WnVoAxUQu-A7Gl2lni4p5W-MXx2yMNnWKvg9_X9qP9-dL6rg50OEelxU2OVWypWPeFfyBxkVCMl4iMwfLf2_pMXy38aqWB1aBIjxJMYsnZywgkI2Asgk2f2_tOapr9fKQhHUPX6qd6_XJJE7Kccj_DYwzu_mTv\/s1600\/Trafik%20Levhalar%C4%B1%2854%29-min.png",
+  "Explaination": "Ana Yol-Tali Yol Kavşağı",
+  "Answer": "Ana Yol-Tali Yol Kavşağı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İki Yönlü Trafik",
+  "B": "Kontrolsüz Kavşak",
+  "C": "Dikkat",
+  "D": "Dur",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgeCTqtIX9T1oqjdh5JPBm24W8TOCkItyet5b9GHY1fq5HMknA3i1bCmYF7IiCaCsmZiMAxKXb8G-uVIun4NORkY1PHxGQWa3TouCZ3E4jKZf4qji96jRcjYkLXXZOsSLMK-id5Px9Dsx0mOQOCCsWx1hdOsuJuyHL6iS56m2mB0h1eMHg2dz9GqEUaJhlG\/s1600\/Trafik%20Levhalar%C4%B1%2855%29-min.png",
+  "Explaination": "Dikkat",
+  "Answer": "Dikkat"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sola Tehlikeli Viraj",
+  "B": "Sola Tehlikeli Devamlı Virajlar",
+  "C": "Sağa Tehlikeli Devamlı Virajlar",
+  "D": "Sağdan Daralan Kaplama",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhQ6B-F2ZoxXr_YHT4OUv4MZxviiZDFyELPyVJdcnEp5wBqsn822BjfEjgvQhrC5bZAk3Go1bwrPPYY_wxn8DFvI044OVQBL7OBPdOabtzDgP8bAE3NNy0J9JNQH8mZyxe6aoWnyHrr8TUVEyfbntIM0JpaZaDGcgl3-puPMpf9r791pTApYRJu9fYQLzVz\/s1600\/Trafik%20Levhalar%C4%B1%2856%29-min.png",
+  "Explaination": "Sağa Tehlikeli Devamlı Virajlar",
+  "Answer": "Sağa Tehlikeli Devamlı Virajlar"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İki Taraftan Daralan Kaplama",
+  "B": "Soldan Daralan Kaplama",
+  "C": "Sağdan Daralan Kaplama",
+  "D": "Sola Tehlikeli Viraj",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh1I82biQqrmC-IaiLB2jLN-7FzKNJ_nDroAK3gYPMDc6qTkv0RAgEJuwSWVqlSWsc1HqQBmkX9U5DkflfNcdkA4D5DLxnXSU4ykLpIzv2_YlTS4PYt5iV0xmH5s__05SmjMo7oK6A22Ldpyyeqc4Sr1bxX6fgo9ofK5gDwowKAwXTOpsiZU_celUr5sp5l\/s1600\/Trafik%20Levhalar%C4%B1%2857%29-min.png",
+  "Explaination": "Soldan Daralan Kaplama",
+  "Answer": "Soldan Daralan Kaplama"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Öndeki Taşıtı Geçmek Yasaktır",
+  "B": "Karşıdan Gelene Yol Ver",
+  "C": "Dönel Kavşak",
+  "D": "İki Yönlü Trafik",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjIUvmEs-Y9tL93sgbIRTeqIsxmEHUjPl-l7Rvr-mpFNlz6EFt2wTgAEjgV0hYnRZrOHNwHGrRWLp4Rpp3rAV4vLs1msKjj9gidS41z_TiIScC6jKwH1B5QBjsTYT_5qyExTH0EwJiHcMk6us2OIcnCnFQ4KsddAbZlLFhDbBq7tcEohbLjQYmsNxsvSiBc\/s1600\/Trafik%20Levhalar%C4%B1%2858%29-min.png",
+  "Explaination": "İki Yönlü Trafik",
+  "Answer": "İki Yönlü Trafik"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Malzemeli Zemin",
+  "B": "Gevşek Şev",
+  "C": "Düşük Banket",
+  "D": "Gizli Buzlanma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjf2FTt-EumQlnSa0X7b2aJWk7QeUDv_sqqno14S7lg7uSxNRB0Sop94FuXpJJfMAVC_ipnDIzkZtqy0srZJBRF0mYvIL4AGKk5VZuP8uvO3WfcLF0r_BHFPxRyn5eGj7HC5mctKVSu2dPS3syz-XmbeZ9KGZdupDE5m6Ggz6VeAwfz_aZx6uwqI0lgeVj5\/s1600\/Trafik%20Levhalar%C4%B1%2859%29-min.png",
+  "Explaination": "Gevşek Malzemeli Zemin",
+  "Answer": "Gevşek Malzemeli Zemin"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Dikkat",
+  "B": "Işıklı İşaret Cihazı",
+  "C": "Yolda Çalışma",
+  "D": "Kontrolsüz Kavşak",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiM-demsJOSsSJTQ4CFhG4vLANHXjxeVlKTseHpdwOrP1BnZRhKBFXK2SBVM2bwPKmkixvk4uQImSVdIW2zbWZuYTeSt65pdEackjlPx1EzqVT1mKMSbMgltFJaMb91wkqlzmxRjfj3FHlkyycB7MqtfzsUb4ixmPiZkQcyHR8nBKQAZFhkAA192wY9HzLs\/s1600\/Trafik%20Levhalar%C4%B1%2860%29-min.png",
+  "Explaination": "Işıklı İşaret Cihazı",
+  "Answer": "Işıklı İşaret Cihazı"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kasisli Yol",
+  "B": "Tehlikeli Eğim (Çıkış)",
+  "C": "Deniz veya Nehir Kıyısında Biten Yol",
+  "D": "Açılan Köprü",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiJKGDwFLfLpRFYv7ox3GLKimYvLsOE7h83-bmR7zx4lc7Lih5yD2Ojf6W4yBgAyw6LSyhE-d0L7_sehxiOevvt1mm9JsfZcDEIpXrnm5rNQV9cbzSPBpAOPoXBawrktjJbKvbezw3D9VypSZ8RYfecSDVXIvvCLpJlIEenWflQrch5oStQRKrWY2ftL1Ms\/s1600\/Trafik%20Levhalar%C4%B1%2861%29-min.png",
+  "Explaination": "Açılan Köprü",
+  "Answer": "Açılan Köprü"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağa Tehlikeli Viraj",
+  "B": "Sağa Tehlikeli Devamlı Virajlar",
+  "C": "Sola Tehlikeli Devamlı Virajlar",
+  "D": "Sola Tehlikeli Viraj",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhH1cYa5GZ3tE5kquCrFWm-_H_skvsDP9_gwjFR2E48a9anO02issL2DWz5PcjM4M1IuU671KKX-4uKZQVGRmw2ryqF5hba3CH2iMYSCkiKHcSlsT8CmOvoOi8Wwa6fWoINd_kLWbSVoUmRFtIgbvTsQgr2qOeC8UzKeuHnWHSAC5tiwg7C8K9Blo7wRzfw\/s1600\/Trafik%20Levhalar%C4%B1%2862%29-min.png",
+  "Explaination": "Sola Tehlikeli Devamlı Virajlar",
+  "Answer": "Sola Tehlikeli Devamlı Virajlar"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Ehli Hayvanlar Geçebilir",
+  "B": "Vahşi Hayvanlar Geçebilir",
+  "C": "Kontrolsüz Kavşak",
+  "D": "Dikkat",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj50vRid9tt0WxSiPDqTjozDhFHJbBk21-W2I3G0CN7Eq6fIj5HfzChtYhmTnOJh7uLquzddrRxf2MdetJ1sSERqAfd-do58zk37I5k_Pnp6PpnVi1O6gc_AOCQ60JUatl7vJ9jaNGq8roWxJ-l9tK4hvICBpGssy4xifMWd6xjazNp3FPcHo1qKBVksXWZ\/s1600\/Trafik%20Levhalar%C4%B1%2863%29-min.png",
+  "Explaination": "Ehli Hayvanlar Geçebilir",
+  "Answer": "Ehli Hayvanlar Geçebilir"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Gevşek Malzemeli Zemin",
+  "B": "Gevşek Şev",
+  "C": "Kasisli Yol",
+  "D": "Yolda Çalışma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh_vleNpKMvBNgEZswJ-VK8KheX7TINjdGOkAXXVkKqgfWhyg_vW2RvsWlF89BlxydKRAaI2ugFdH53kwRggdRAng_oCvXiaXS3Jh59Mr5ZiV1XCTHS6jMTCfn8SNfWOGuqy1NBjD1gJoXErofcN3AsWW7VEVOlxrlP-cFbkz4A61C0p7FRUDarjDF4QpMM\/s1600\/Trafik%20Levhalar%C4%B1%2864%29-min.png",
+  "Explaination": "Gevşek Şev",
+  "Answer": "Gevşek Şev"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağa Tehlikeli Devamlı Virajlar",
+  "B": "Sola Tehlikeli Viraj",
+  "C": "Sağa Tehlikeli Viraj",
+  "D": "Sola Tehlikeli Devamlı Virajlar",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiiz787Ajzih4YwdgZUjXkijd7EiafErBN77HXj_8DzwtL6yFwsyJCKhJA3C0AglAgvSraQCB5k8Msh0p9Z6edkFHR25b6ZhEckKPItViwTIpPa1sOMWyV_d-_ZwDcno6ilnSE8lg7lIZFVwGcQmKqM7VLptbOUtFhikJ6auJCzpGJSjV3AonksOlzbpn1J\/s1600\/Trafik%20Levhalar%C4%B1%2865%29-min.png",
+  "Explaination": "Sağa Tehlikeli Viraj",
+  "Answer": "Sağa Tehlikeli Viraj"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Yandan Rüzgar",
+  "B": "Kontrolsüz Demiryolu Geçidi",
+  "C": "Dönel Kavşak",
+  "D": "Kontrollü Demiryolu Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgHzLr3w1uXrhqYvcsi_jSAuw-z0Mh3M-dRBltOs0uStV9OVo1SxayRiuWnccCnKiIJdiNEIgyE9IvTNLZdzBQ9aEEVMmJ4afxpWAAe3gVFpTqrm4XwElZOni8bPz2ii36lbCqwJAhpmzNYAnpc2Iee92MtK3_ygN1-ElJMFwHrlCnojHha4P-pmzyo1UXN\/s1600\/Trafik%20Levhalar%C4%B1%2866%29-min.png",
+  "Explaination": "Kontrollü Demiryolu Geçidi",
+  "Answer": "Kontrollü Demiryolu Geçidi"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Soldan Ana Yola Giriş",
+  "B": "Dönel Kavşak",
+  "C": "Kontrolsüz Demiryolu Geçidi (Tek Hat)",
+  "D": "Kontrollü Demiryolu Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiGbCPODCVLVLOWXt_vcKhtbDeYOHDv7r3sRCibYBDgb2BJ_teFrn1sA7S4j3ggkyXAq8RhnvlY_MfWCRcecMKdJiEF1ycwTbTMSxsTGAX5AsEWNvba9Z-HYcLrY_sUL0gHVkr260YWWM0hf97ytTrWCN4QJhXnxT34XQZ3tTTDlM4h92hdfAYpXGPWIT5W\/s1600\/Trafik%20Levhalar%C4%B1%2867%29-min.png",
+  "Explaination": "Kontrolsüz Demiryolu Geçidi (Tek Hat)",
+  "Answer": "Kontrolsüz Demiryolu Geçidi (Tek Hat)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Engel",
+  "B": "Köprü Yaklaşımı ",
+  "C": "Kontrolsüz Demiryolu Geçidi (Tek Hat)",
+  "D": "Kontrolsüz Demiryolu Geçidi (Çift Hat)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhLpdsypP8aukfh8TmOmcTOFvuNKs1zvP_zKfFAqARyjUgkby4Iyxtdaqb1raC7c1BHeiJHeH2lmHZw8OUeHo53LhgrPxS4DNDX3MyRnnrWdD2OozPIj2C6n3MukkIYFZNMfI56a86y6UEMTQvlwHbP7Gi-E372j8kEmba3NLMZ1IznTLvMKoPbMIsSlJLq\/s1600\/Trafik%20Levhalar%C4%B1%2868%29-min.png",
+  "Explaination": "Kontrolsüz Demiryolu Geçidi (Çift Hat)",
+  "Answer": "Kontrolsüz Demiryolu Geçidi (Çift Hat)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Engel",
+  "B": "Yolda Çalışma",
+  "C": "Işıklı İşaret Cihazı",
+  "D": "Dikkat",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhHQ7fZGVAgJr1WeEBShyphenhyphen2CCFz7s-uzIzXtj9Js2nk7NIuEPE0fZGmbTXd0VuqopEg4l8Vlstx9nHZJiYfv4FXNrxjPSTtBb3c_x0C9_Li6g2LeyJFcKkHDUPGb_SmHfyvUDCoHSjEPi-rRt33X45akIww80RiBbMSYmw3gEP405rDd4MOYu35XykCiOAe-\/s1600\/Trafik%20Levhalar%C4%B1%2869%29-min.png",
+  "Explaination": "Yolda Çalışma",
+  "Answer": "Yolda Çalışma"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Köprü Yaklaşımı (Sağ, Sol)",
+  "B": "Demiryolu Hemzemin Geçit Yaklaşımı",
+  "C": "Kontrolsüz Demiryolu Geçidi ",
+  "D": "Kontrollü Demiryolu Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgAEWFt85lsi8x2k9KAVKqgW5YYujMcZv7m1Web9LymfzyuDaTzFOF8TndVrzLpBam4HHf1V8N59pbbUZRx2m9U9gH5VMRohng7zJ7Fk-xFeHBfvfCjNbfvsXlaFKL4j-p84rp9YBHE4Ek8Ssa_RVxPQlAwycD9QXHv9PAgaRiqs9sK4ky99sSFGb_OkIeZ\/s1600\/Trafik%20Levhalar%C4%B1%2870%29-min.png",
+  "Explaination": "Köprü Yaklaşımı (Sağ, Sol)",
+  "Answer": "Köprü Yaklaşımı (Sağ, Sol)"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Köprü Yaklaşımı",
+  "B": "Tehlikeli Viraj Yön Levhası",
+  "C": "Engel",
+  "D": "Demiryolu Hemzemin Geçit Yaklaşımı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjoSgmybnmQV38zR6ZCMRk2N0xvFTJCo-Vt_ygjkpcJ43qo93l2L2QePNSmQcRo-VlDimoT6OioD2GvMEV5-46pvpxQ5oyd69ut2nzoJhwPs0Rjhy8F-EoUaNX9ImiEB7RCT6rcM4Vbzl25vAS61odnkrkkLVpxZYWLVzhPPQJd1JLthgfytThEgC71kdeq\/s1600\/Trafik%20Levhalar%C4%B1%2871%29-min.png",
+  "Explaination": "Tehlikeli Viraj Yön Levhası",
+  "Answer": "Tehlikeli Viraj Yön Levhası"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Geçme Yasağı Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEirymLq0Xcox4TOaOpuvQivcqBSgLA3Ovk2vUk6edEvS1W9ky1KcHaHwW5o9ZGlPZ1codG_1W_mT0_xBRk1d7k93D9g9HRQienSy4Be7CPD8Y_d9hfeYujFpQQknNaKw1G3XyR7hzoq6BZgiceXWZop4VtBFQvcA183GnZ3VX4O5PKItV1r7oSkE_1PdO8b\/s1600\/Trafik%20Levhalar%C4%B1%2872%29-min.png",
+  "Explaination": "Hız Sınırlaması Sonu",
+  "Answer": "Hız Sınırlaması Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Geçme Yasağı Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiICicnPAnnPebT8MkqVSHctAEyLOw0OaIaniMEW6WArw1k9oYdgKK1Ms8INx6pT6SDA0xn6QU2Sctyjbf_kka6QzaY4BmW2B5WKq6YVX_8UHjH63ARNFwTXIA6fB2UTcV7o-snlYyktSkudWfQXOCiQuVlY4ZpkVUL8zNd7mamHAftEwUwD8d6z0VH1K4u\/s1600\/Trafik%20Levhalar%C4%B1%2873%29-min.png",
+  "Explaination": "Geçme Yasağı Sonu",
+  "Answer": "Geçme Yasağı Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "B": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "C": "Geçme Yasağı Sonu",
+  "D": "Hız Sınırlaması Sonu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh0yQyXU1nF1F7ecVujC_YJwha-JwLdq112pGONZjOnh_lCTvvgho0eKgPaX7HhDtb5TdMissCQY7PKz4ESv4L-vKgK0e9dslQLR1VTclR-rxroQQOMuH4a6t_yahSvKQ-H1PDu_GYnv7B1pdj-OeDCW20ajW0s7Vqa3vAfGFS9LqcTmvDfePh7exGQPZo-\/s1600\/Trafik%20Levhalar%C4%B1%2874%29-min.png",
+  "Explaination": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "Answer": "Kamyonlar İçin Geçme Yasağı Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Azami Hız Sınırlaması",
+  "B": "Geçme Yasağı Sonu",
+  "C": "Hız Sınırlaması Sonu",
+  "D": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgzjka6IhNCVcwrDCxUwKq7ooYI0ZMWw27xWvrAZOqgZDnsdKHojGUxgkV5lyGqPtfHRNmr5dEhsJDDKBAHqE8aI4GzJiYNBfwWLYTdcPzIneqeN6SVGstYZCAUJb6Vk3yzaRwTtJkdNdn1222y7xsi60XIsa74MhX3WHs9ycGSwi1g-knoWznINWmZ_21s\/s1600\/Trafik%20Levhalar%C4%B1%2875%29-min.png",
+  "Explaination": "Bütün Yasakalama ve Kısıtlamaların Sonu",
+  "Answer": "Bütün Yasakalama ve Kısıtlamaların Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Hız Sınırlaması Sonu",
+  "B": "Kamyonlar İçin Geçme Yasağı Sonu",
+  "C": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj6mB4xrM6WoykaaToH1S2UyG6DsjDOgrTJTOw34i_6VbkqWh15V-QhyphenhyphenenhX4GsWG-Qq0fOlGwUzD2gOnCNMIEHq8lgwoLwpIWUAlrtESabIC9h__czAg5aGARr-TJk_XOLI8lpNY9u1FpuWJoeTb4PbBj9LRXxiW-Pv20eAjgVhm3MINuVKzgBSEWFTY9v\/s1600\/Trafik%20Levhalar%C4%B1%2876%29-min.png",
+  "Explaination": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır",
+  "Answer": "Kamyonlar İçin Öndeki Taşıtı Geçmek Yasaktır"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Asgari Hız",
+  "B": "Mecburi Asgari Hız Sonu",
+  "C": "Mecburi Yaya Yolu",
+  "D": "Azami Hız Sınırlaması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi7v7uhv3tiUil4aCxCL57NfbAE5ZDTYFc8MzCnP6hO_yDA2tvDnikY4YXNqV_LhaBRqbtXl-KyzUVUfQrRFHrA7DPv3xo9EE2u_kIY0uahk3kqq9rxfJyL-fkoSFY2KgMFbD80ldM0GiUA-sXzj17_pLlrq6w8Cl0lvOvosz40JMujxLluGICOCjebS7ti\/s1600\/Trafik%20Levhalar%C4%B1%2877%29-min.png",
+  "Explaination": "Mecburi Asgari Hız",
+  "Answer": "Mecburi Asgari Hız"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Asgari Hız",
+  "B": "Mecburi Yaya Yolu",
+  "C": "Mecburi Asgari Hız Sonu",
+  "D": "Azami Hız Sınırlaması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiguMGZvBH4S245InaEEeF5EKweEFmwUw4oQIoYj4aPCumDZEk_KGNW4aaUtTxEpS6EAQxPaOn0EYDBAz46iVj1-BQlNyYZthAOuM6a5rRsCDShxufdUXo0OCH4NTdx2-6zgN-bBKJ_axJs66WXVQNfGoYdbdTPcYqSzclZclXbCXX_kLb2VNWV1wBWsjv4\/s1600\/Trafik%20Levhalar%C4%B1%2878%29-min.png",
+  "Explaination": "Mecburi Asgari Hız Sonu",
+  "Answer": "Mecburi Asgari Hız Sonu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sola Mecburi Yön",
+  "B": "İleride Sola Mecburi Yön",
+  "C": "İleride Sağa Mecburi Yön",
+  "D": "Sağdan Gidiniz",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgDQ6Gu0lcgeqUCGuZ41OlmoJRv9RezGe25ld1YY3SNSnl1ps18s3NgJUztvW4aV_WpMoSa6d7-TlBUaviWfmYXlwDNA-JVG4NRnVxfawlAjtHxMHcAVmmsqWkueOlMpodBXt5ZUVyWv6pEK71kMn0qieKLs9jtoH1JCRdBBiJLmOJakC501ofFfEiUhFct\/s1600\/Trafik%20Levhalar%C4%B1%2879%29-min.png",
+  "Explaination": "İleride Sağa Mecburi Yön",
+  "Answer": "İleride Sağa Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sağdan Gidiniz",
+  "B": "İleri Mecburi Yön",
+  "C": "İleride Sağa Mecburi Yön",
+  "D": "Sola Mecburi Yön",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhvMvXjTXg3ACcUQ_oTZFdcVaPu3SHZlfA8sKLO_9LbkNFhnio_mEfNIViOQAvQUgDIh6u8kwdTTlMn9w4FCh2sC6jwExH0Za9-_6nPxhIqXG_qmceLzrO6eY8fICczH3-uqmldfvtjuOidAN_eTAqNSAcZLchJqX2DtRpxXOm0YHMubrX6OrPi3fMd-EjQ\/s1600\/Trafik%20Levhalar%C4%B1%2880%29-min.png",
+  "Explaination": "İleri Mecburi Yön",
+  "Answer": "İleri Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Sola Mecburi Yön",
+  "B": "İleri Mecburi Yön",
+  "C": "Sağdan Gidiniz",
+  "D": "Ada Etrafında Dönünüz",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiVOMCXkYj2HVSsF9dDR8OSPyZ7Xl_yG1v1K9lWz-Q8K7zMF_-WDVQH-dazP1LpF1k23v6gMPXI03P5zqjbu6nsBjZ79r2J5CZ6ji_KOe686SAVOybOp6jxbQqvX8ohVBbp914chOcKtR9e_3tiqETIRkyMTC0opvwtvnE3JuXWFfwpQoiRnOh_o217FHiC\/s1600\/Trafik%20Levhalar%C4%B1%2881%29-min.png",
+  "Explaination": "Sola Mecburi Yön",
+  "Answer": "Sola Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Park Etmek Yasaktır",
+  "B": "Park Yeri",
+  "C": "Yol Ver",
+  "D": "Duraklamak ve Park Etmek Yasaktır",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiYIHZZcXeiEtMiSOcTabuiSL8oUpdaUpGKBl7Fto3rNK6qKT9mXspWirnetxMQDBOjkFUP1jukgbxY3JvbjS2I_Dm8VEHxhTCO5orFuiUOcsAs8NzgI4njyH1GJfII3hTVFa1b0dK7x20lVQmAHwEsSl6MUcG-Y6L9LPfKYSn5ZdFjsFutCzpBctHqVv85\/s1600\/Trafik%20Levhalar%C4%B1%2882%29-min.png",
+  "Explaination": "Duraklamak ve Park Etmek Yasaktır",
+  "Answer": "Duraklamak ve Park Etmek Yasaktır"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Duraklamak ve Park Etmek Yasaktır",
+  "B": "Park Etmek Yasaktır",
+  "C": "Park Yeri",
+  "D": "Taşıt Trafiğine Kapalı Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiWE98vMlm5NY9ACE7CuUD0Pf7iPCHMPf6ZfjoljrNHcFvJrQ9fRQXvZglEL3C5zpG3ESUtkvzugDiXO9kxpzpJEC8LM8DIcUr9-wGE_lVE-kFS8HB4ti62k2WWP15l5_Ipi9sxuNStTU5e1uotKq6gQ8aCcLdNZuhMHR2FB3RMiIIT_FNcalo-IY3mzfsf\/s1600\/Trafik%20Levhalar%C4%B1%2883%29-min.png",
+  "Explaination": "Park Yeri",
+  "Answer": "Park Yeri"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Mecburi Yaya Yolu",
+  "B": "Mecburi Yaya Yolu Sonu",
+  "C": "Mecburi Asgari Hız",
+  "D": "Her İki Yandan Gidiniz",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiU4lDZ6S9hHy9I2DXVqSPM3ViBWOFESa0MPaq8amMHH74oyCQJuM4g0fI7oPiCjhZZsUFtwQbgDzrkpOfUAff8nVFpPranhzOqY2wmnTpTiqehIZ8IsD_U-eYjzuWldsBfPd5fiT2tbO-4VIkZq2hHGUc-0sJk03O216eGHQxNDfH-XxItibCL5l302FTS\/s1600\/Trafik%20Levhalar%C4%B1%2884%29-min.png",
+  "Explaination": "Mecburi Yaya Yolu",
+  "Answer": "Mecburi Yaya Yolu"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Her İki Yandan Gidiniz",
+  "B": "Ada Etrafında Dönünüz",
+  "C": "İleride Sola Mecburi Yön",
+  "D": "Sola Mecburi Yön",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDeVIJ4F8CH3I55lkwkIwfF6puwUwdzhonSFCdyg1rLmuPSSIeH8KUTHuPfCUvQTXHOAq0aHEE7rUCsccJyRTkcZFg0YJny0w_Nlx7tVgBVmpKBLizoNoKkZBVmQvN8Qhe6KyMfbSsfd4gIkxqCBTJy7jmq1x7j-h3ZmFuPSktHCpgjCq70eaE1v168pGw\/s1600\/Trafik%20Levhalar%C4%B1%2885%29-min.png",
+  "Explaination": "Ada Etrafında Dönünüz",
+  "Answer": "Ada Etrafında Dönünüz"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "İleri Mecburi Yön",
+  "B": "Sağdan Gidiniz",
+  "C": "Sağa ve Sola Mecburi Yön",
+  "D": "İleride Sağa Mecburi Yön",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhu8ikNGqLyxZ7Agrq3TZwKkS8hVftff5fPFhr93b-3evt_SX3VSJF64GaqrvWwvMycy4PmgndzMeMSSxw_Dqbk1Y6xo_PQBRtoCB9cEoOGk_2Qm7owZ0Ie9gYNwiX92RHSUTiOOuSe7tBW7M2XW6QJzo6J2da_2lx4ftNVqF1IuPxwBVYo1vQFWxyxju9h\/s1600\/Trafik%20Levhalar%C4%B1%2886%29-min.png",
+  "Explaination": "Sağa ve Sola Mecburi Yön",
+  "Answer": "Sağa ve Sola Mecburi Yön"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "B": "Yüksekliği ... Metreden Fazla Olan Taşıt Giremez",
+  "C": "Genişliği ... Metreden Fazla Olan Taşıtlar Giremez",
+  "D": "Taşıt Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhm50-_T2AkukxwsNr4TYkxQGuhIPRaJoMiRRhwxf-bF3NYIqFjl1KZz4cvJsNiRdmdFuRjc-smfrdY3A8-HAXQySBTCf4gTYMj3Nhx0K5hTEEwxDHhA32D5ac8C-fiWYS8c5Hkr_MctjURk0jP6ZfYw-kpXbt4UB5xPdUch1ee1f8AvK29REFm0oZWaW-k\/s1600\/Trafik%20Levhalar%C4%B1%2887%29-min.png",
+  "Explaination": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "Answer": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Yüklü Ağırlığı ... Tondan Fazla Olan Taşıt Giremez",
+  "B": "Taşıt Giremez",
+  "C": "Motorlu Taşıt Giremez",
+  "D": "El Arabası Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjc_bNJ83tQOSJIm8VDoUVJQU4pcA6at5H3KEoVbDX1qKD6VO_I9l31Qhl09Y1iARGvqIJKQse4nus8r3gK-j3QY89odzZbV3WtgvKjPkQiAOaHr_aOnQ064ZWUy_p2MI0DAer9qLomrp8GFItZ_y2bwktEKlWVByKD9h4XFI8-uLt03rDGIFQOYVkuLXV3\/s1600\/Trafik%20Levhalar%C4%B1%2888%29-min.png",
+  "Explaination": "Taşıt Giremez",
+  "Answer": "Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Traktör Giremez",
+  "B": "Treyler Giremez",
+  "C": "Otobüs Giremez",
+  "D": "Kamyon Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgiCCi8u7ehO-za4XbIyQD0jIwzHx_VCdK9dXsEQmojBx8U5koXFuvmSYNTxD69XWn1FoCIsKFEBToH7tmzBNu7SsOEd3_CZbIdRtdXd3U4o1Dap4TRPeKGZrpvXUqhWjHzhZd52iO14SuQVqluJZ-mljwIYWxc-fBK9lxbrBagEjLKNM6zYFrjcNmzrDgq\/s1600\/Trafik%20Levhalar%C4%B1%2889%29-min.png",
+  "Explaination": "Kamyon Giremez",
+  "Answer": "Kamyon Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Uzunluğu ... Metreden Fazla Olan Taşıt Giremez",
+  "B": "Taşıt Giremez",
+  "C": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "D": "Belirli Miktarlardan Fazla Patlayıcı ve Parlayıcı Madde Taşıyan Taşıt Giremez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjn6dZ9R8rlG6xPtGvJ59MYOid5zRqE9ps5HuPekMIe3t957QfNIOJGLErz80MZC0W24pWQNvrt7o_ohQu7Qbk55kvYcW_nS5_8PEY_GlsFNeKK0In1Rmtg1xG2QvHp7lF1NnzRGTrAOCy_UVS0MYT6aQvUdAdBPPlpVvMU-MXDiANoS4UhrslRweCw-Y1Z\/s1600\/Trafik%20Levhalar%C4%B1%2890%29-min.png",
+  "Explaination": "Tehlikeli Madde Taşıyan Taşıt Giremez",
+  "Answer": "Tehlikeli Madde Taşıyan Taşıt Giremez"
+ },
+ {
+  "Question": "Resimdeki trafik levhası ne anlama gelir?",
+  "A": "Otoyol Sonu",
+  "B": "Yaya Geçidi",
+  "C": "Okul Geçidi",
+  "D": "Tek Yönlü Yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj1XOahyphenhyphenFWpbC8JTvA0idF6OG9H0E-gt-dTIsdmrGEMOvoGhmYOn0D7PlkBqhuhuLSDBV25wRp8A8RmIvEIQhtuozXere1ABeWg4iAB5M6Z2sewxbFLYY7nimHwQvVIAaXM7Nz-YL-eEGTWEtL2FGTL4uZWyfYFtVNrK243L60NkYMMV510GtCV_QzxAtly\/s1600\/Trafik%20Levhalar%C4%B1%2891%29-min%281%29.png",
+  "Explaination": "Yaya Geçidi",
+  "Answer": "Yaya Geçidi"
+ },
+ {
+  "Question": "SORU",
+  "A": "Orta Şerit Devamlı Olarak İşgal Edilemez",
+  "B": "Öndeki Aracı Geçmek Yasaktır.",
+  "C": "Öndeki Araç Geçilebilir.",
+  "D": "Yaya Geçidi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgzOhjS6JlDd6GNFKPFf7BjihlqY-vYikJu3molX150WiAqHkLyqi58dSIXNkimDw_xl99wXLJDIgDaJ19YBq-8bIClvE9TWuzZg-M0snPcZ5pKJdgKg93W8Pad4wYo4XI24iI2_0H1sHSv5ZfRy6iZ0MUFt3kZ7d06yTFZqacsPdDgRc25j5-4okM0M2Jh\/s1600\/Trafik%20Levhalar%C4%B1%2893%29-min.png",
+  "Explaination": "Öndeki Aracı Geçmek Yasaktır.",
+  "Answer": "Öndeki Aracı Geçmek Yasaktır."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Öndeki Araç Geçilebilir.",
+  "C": "Yavaşlama Uyarı Çizgileri",
+  "D": " Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgXhcPbFwDlDQzR7_qgQbOoqUprGA266aDQjCjrZCdTGMLWdUoo-phSVeHxTJgRONOsw8Leasu0iCuoEFxp6WuOyTDR-d7YrH-6PT2YNI4ra5Aa_LhSFcr3zoWs2A8AA7yjsmEHvmpvqo7Bdp99wlyvt_PmPSIfsp34XKs_WaVNqUhREYn7on0M9EG8FbDk\/s1600\/Trafik%20Levhalar%C4%B1%2894%29-min.png",
+  "Explaination": "Öndeki Araç Geçilebilir.",
+  "Answer": "Öndeki Araç Geçilebilir."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n",
+  "C": "Öndeki Araç Geçilebilir.",
+  "D": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgTIzuSY3WvO9euF15EPWmaQHHwRFmBzA2rloq2qIVOCTwi4Z9HxTp5yJzskA-QfgLkT2f8rzmUoFNdd679G3-I4JqAhjg3_G6azweVxJMCw6nKedsnAGZkryGs3pAdy90hP_4rRksqGQt87C4jEm4UtdYyqcHn1eAU6fRjPOMr8vvDuYk40C8WnAeua2Tw\/s1600\/Trafik%20Levhalar%C4%B1%2895%29-min.png",
+  "Explaination": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n",
+  "Answer": "Kesikli Çizgi Tarafındaki Araç Öndeki Aracı Geçebilir ve Devamlı Çizgi Tarafındaki Aracın Öndeki Aracı Geçmesi Yasaktır.\n"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "C": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "D": "Öndeki Aracı Geçmek Yasaktır.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhp_mZzlyZ0CzAuri6bEhcNgAfJ3xY2svF5NhYryNXZ6_xX8VNHbn5Am-wZqfSdlwodq5XeAgmOKkPj2O8CltRy9cYYLQ8gf4lLHbRDVc-r4uzrKzxFQgay8boRxXUPHc5rKai_i-idd5iJYnfZaw3H8Eh2WJfQhPjGX-erPSxXQ49Ep25eiZm7LcfxxQmv\/s1600\/Trafik%20Levhalar%C4%B1%2896%29-min.png",
+  "Explaination": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "Answer": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez."
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Orta Şerit Sadece Geçiş İçindir. Devamlı Olarak İşgal Edilemez.",
+  "C": "Bölünmüş Yol Başlangıcı",
+  "D": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjj5qm41gVmGplAXfvtuN3dSvpsbbJxsCzjgDWm872NAe7bepAXoAJ1m4ZKkjAhrJfuAftDOJ77oc-Mr5R3NyDpceWrTDRt0zaUNMYL0ihGNRd65hvwE-wBwkfmYgam1x9mFJzaKUYzI1tk5IBSk5WCGjOjAEkrSwoMQFU3j9z7dk2sEogj2JouAEU01pVC\/s1600\/Trafik%20Levhalar%C4%B1%2897%29-min.png",
+  "Explaination": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez.",
+  "Answer": "Her İki Yöndeki Araçlar da Çizginin Diğer Tarafına Geçemez."
+ },
+ {
+  "Question": "SORU",
+  "A": "Bölünmüş Yol Başlangıcı",
+  "B": "Ayrılma",
+  "C": "Katılma",
+  "D": "Taralı Alana Girilmez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiqSF-DoygvODjIZdM6BW7KaSInSmX2Uj6HBNwhiToQssA_fYHrYh0CCYPoXditDn8yz7401fZWPmRcKBBpGtPbffK7LPXnBNLt4LxC3GKffRQ1j4Zam03Hulkl_kJg3STHFI7RpT0zkE-sfQK5Ehap7tbAfgR28lTRcKe1HHq59bf2mquWPSqmipu-nsNJ\/s1600\/Trafik%20Levhalar%C4%B1%2898%29-min.png",
+  "Explaination": "Bölünmüş Yol Başlangıcı",
+  "Answer": "Bölünmüş Yol Başlangıcı"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Araç Geçilebilir.",
+  "B": "Bölünmüş Yol Başlangıcı",
+  "C": "Katılma",
+  "D": "Ayrılma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhZArpQfPuNdfrG6b720VzIg23digdcYrN-EleHlU47naBch_54RDkAQ9N0FOBsQVaDYciUa8KdexPTIiPIqp1kADOs-0cYAJi1BhIzkTLeGsTjVA9KUsm-IiNcNdsSGVEBuvii1vLnaiPuoBU7ESCAkYMG_JKwleR76XoUb8brgh80dDdqAOOiJBKGCzJi\/s1600\/Trafik%20Levhalar%C4%B1%2899%29-min.png",
+  "Explaination": "Ayrılma",
+  "Answer": "Ayrılma"
+ },
+ {
+  "Question": "SORU",
+  "A": "Bölünmüş Yol Başlangıcı",
+  "B": "Taralı Alana Girilmez",
+  "C": "Katılma",
+  "D": "Ayrılma",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhRgJQiLptnPusLkjTD-UAp7KdOOyG8FbLgtXdadFCv0cdNUDLCE__n3hcWlp9Ofh_-ZDRXR37eWH9YYqzlAwHny_WZjdfdsLEf-iDWFB5JbUs5-kXbVN0MIhG3s1f07KT-4OF08htA-Dc1GUWoa9P70Idqrx5cqB5pR6zAo09tCV4NMGP5-ib_S7x6Qgen\/s1600\/Trafik%20Levhalar%C4%B1%28100%29-min.png",
+  "Explaination": "Katılma",
+  "Answer": "Katılma"
+ },
+ {
+  "Question": "SORU",
+  "A": "Yol ver",
+  "B": "Yaya geçidi",
+  "C": "Dur",
+  "D": "Azami Hız",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEivx0dHqT9Y1r8emjunp9968MCqG1jZzHXxWJ7WQHe8scduBOoaEb_Px4vNHxQfGXWVA4NPWP-CngyaKaixM6IfnwJ_8XuH6AdPd7MWQCgMqiE4_ruFHyxQkH-G18FKbdXmeQj9XvlNoJ0onchfBvONd7mMpy0Io2l9agT1odsx6VRGcDsvh2t1v9RNRbBO\/s1600\/Trafik%20Levhalar%C4%B1%28101%29-min.png",
+  "Explaination": "Yol ver",
+  "Answer": "Yol ver"
+ },
+ {
+  "Question": "SORU",
+  "A": "Öndeki Aracı Geçmek Yasaktır.",
+  "B": "Katılma",
+  "C": "Ayrılma",
+  "D": "Taralı Alana Girilmez",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh8zZWd79z4jFeu4Km_h6vNqvM9c_zEzW7ngXDlD48Upu_AwTvTwuWrrof_v3ibV-ypP3Zsr3l65xISxJ9UjZ9NQ7fo-88ZdxzfRnnCQzihPSqpIUIzRBzd7-wMHC8UvEqaO0BGk3p0LbaUP4opcdNlomewPNS32NlhvpjAAkp6TRLiVRS2SQX0NpkrGGBY\/s1600\/Trafik%20Levhalar%C4%B1%28102%29-min.png",
+  "Explaination": "Taralı Alana Girilmez",
+  "Answer": "Taralı Alana Girilmez"
+ }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "Question": "ما هي العقوبة المطبقة على المركبة رقم 1؟",
+    "A": "A) يتم تحذيره ولا يتم فرض غرامة",
+    "B": "B) نقاط العقوبة فقط",
+    "C": "C) الغرامة المالية ونقاط العقوبة",
+    "D": "D) الغرامة المالية فقط",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "C) الغرامة المالية ونقاط العقوبة",
+    "Video": "https://v1.pinimg.com/videos/iht/720p/a0/21/c5/a021c59b780703013277764b0fe9b635.mp4"
+  },
+  {
+    "Question": "يتم إعطاء المركبات التي تسير في قسم الطريق ثنائي الاتجاه وثلاثة مسارات في الصورة. وفقاً لخطوط الطريق، أي سائقي المركبات المرقمة يقومون بتجاوز خاطئ؟",
+    "A": "A) 1 و 2",
+    "B": "B) 1 و 3",
+    "C": "C) 2 و 3",
+    "D": "D) 1 و 2 و 3",
+    "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj895-28DF7H_998tl61l_xNk6Y4ALpOZRzA9xkobsquzoQRXEsn2AWzoacCS-Az-Ttz3Jn0e17AdfKrGywNUgShHyIlC4-_c_laRAkuEQ9g_HpB6j3fLZBQsPqB8rfGAOcAgjEs2dqVTOziVB7oWUoirYI1QzIC9G2vYXCco0M_XIGji0rVbEasL7ttbp2/s1600/vlcsnap-2024-05-30-21h09m22s848.png",
+    "Explaination": 1,
+    "Answer": "A) 1 و 2",
+    "Video": 1
+  },
+  {
+    "Question": "كيف يجب أن يتصرف سائق المركبة الحمراء في الصورة؟",
+    "A": "A) يجب أن ينتقل إلى المسار الأيسر وينتظر",
+    "B": "B) يجب أن ينتظر مرور المركبة أمامه",
+    "C": "C) يجب أن يحذر المركبة أمامه للتعجيل",
+    "D": "D) يجب أن ينتقل إلى المسار الأيسر ويستمر في طريقه",
+    "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjrbmTuN3ZTVsXQY3EVI3PVbwGzYhUK_i1WAZUtuBY1de-Av0trkFlXscGN_Yd0Fghh8cg2c1Wby-W4Wwwcz1LNCQh4t8-55vbUzCvqCn1m7NZJo3BJ_rKz_V382WNNm4p53mc2RwaYd6rvzJE-r8sfiehEURw4hiYr8CDmiMLbwqhO67du1bAyrnej6Eb/s1600/vlcsnap-2024-05-30-21h08m53s362-min.png",
+    "Explaination": 1,
+    "Answer": "B) يجب أن ينتظر مرور المركبة أمامه",
+    "Video": 1
+  },
+  {
+    "Question": "إذا استمر سائق الصورة في طريقه دون ملاحظة إشارة المرور، أي من العبارات المرقمة قد تحدث؟\n\nI. تلف الحمولة\nII. فقدان السيطرة على عجلة القيادة\nIII. كسر محور المركبة أو عطل ممتصات الصدمات",
+    "A": "A) I و II",
+    "B": "B) I و III",
+    "C": "C) II و III",
+    "D": "D) I و II و III",
+    "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxlIoLzTctYWCwGfna2euWA23hyphenhyphenvnPwDgsauur-GWumwASFt6vxedcRC1CRp19rwGA_vSuVoExqrvnm_qEr5r_FrSNPcLg9UtP01BU-tqdox54CNswoRxo9mXibBmcOeU-Hx8DFCIPDGx2k4d79PMhe9uz8uM-72q6hlkWXrFRgmSNc5fM9S7JiACczgw/s1600/vlcsnap-2024-05-30-21h08m39s307-min.png",
+    "Explaination": 1,
+    "Answer": "D) I و II و III",
+    "Video": 1
+  },
+  {
+    "Question": "كيف يجب أن يتصرف سائق المركبة الزرقاء في الصورة؟",
+    "A": "A) يجب أن ينتقل إلى أقصى المسار الأيسر",
+    "B": "B) يجب أن يبطئ وينتقل إلى المسار الأيمن",
+    "C": "C) يجب أن يسرع ويستمر في المسار الذي هو فيه",
+    "D": "D) يجب أن يحذر المركبة الحمراء ويجعلها تبطئ",
+    "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH95LLZS_l8FQh858CEUD2-EGl-cUiCaFS2iWrFEMvQMSCF97rw2_HMr0BEFdLMusrBRwPDzZvEo1F7XieHssyVBWEMVFcAjzCivC3qWVzISWgm5IGQrrdKjNWwLGFpev0WLNp21yRLNPeh0Tcef-_fqcLDs-MBPT7jgcyYRQQ73PxuSmtNZGtENhKq85K/s1600/vlcsnap-2024-05-30-21h08m21s044-min.png",
+    "Explaination": 1,
+    "Answer": "B) يجب أن يبطئ وينتقل إلى المسار الأيمن",
+    "Video": 1
+  }
+]

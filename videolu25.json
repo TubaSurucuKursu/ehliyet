@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "أي المركبات خاطئة؟",
+  "A": "A) 1 و 2",
+  "B": "B) 2 و 3",
+  "C": "C) 1 و 3",
+  "D": "D) 1 و 2 و 3",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 1 و 2 و 3",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/96/7f/3a/967f3a91785862080f54f3b1f52e1263.mp4"
+ },
+ {
+  "Question": "ماذا يُعلم إضاءة المصباح الأحمر خلف المركبة للسائقين الآخرين في المرور؟",
+  "A": "A) أن المركبة ستنعطف يساراً",
+  "B": "B) أن المركبة ستنعطف يميناً",
+  "C": "C) أنه تم القيام بفرملة في المركبة",
+  "D": "D) أنه تم رفع القدم عن دواسة الوقود",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) أنه تم القيام بفرملة في المركبة",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/26/30/7d/26307d8d85736aaaead9e86679e7403c.mp4"
+ },
+ {
+  "Question": "وفقاً للصورة، ما الذي لا يمكن قوله عن سائق المركبة رقم 1 الذي يريد الذهاب باتجاه أضنة؟",
+  "A": "A) أنه لم يستخدم أضواء المركبة في المكان الصحيح",
+  "B": "B) أنه دخل المسار الصحيح قبل الانعطاف",
+  "C": "C) أنه لم يضع سائق الشاحنة في موقف صعب",
+  "D": "D) أنه لم يتبع قواعد التجاوز",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HoLnDHYOXC28FGiJcfTVfoNIb6zkA9kOs-vkwMxQ1SLih07pS3sPC-7AIOhOPC10KcjbOrF-xr4YxkshrCSRdasGne5SocBmXgT-Oa6qCxT5I9ZGTBzWraRLdQ2otXasYmqCQxojGYzk4a_9McS8LjzuoO12MtnqJ9wFMvGjtdWDwHMqEGOU3Snjagdr/s1600/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
+  "Explaination": 1,
+  "Answer": "C) أنه لم يضع سائق الشاحنة في موقف صعب",
+  "Video": 1
+ },
+ {
+  "Question": "وفقاً للرسوم المتحركة، ما الذي يكون خطأ فعله؟",
+  "A": "A) تقليل سرعته",
+  "B": "B) تجاوز المركبة الأمامية",
+  "C": "C) تقليل مسافة المتابعة",
+  "D": "D) تجنب التوقف",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) تقليل مسافة المتابعة",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/c3/60/d2/c360d247c4b2923531f7c09917aeab0b.mp4"
+ },
+ {
+  "Question": "وفقاً للصورة، ماذا تعتقد؟",
+  "A": "A) يمكن التوقف لفترة قصيرة فقط عند صعود ونزول الركاب",
+  "B": "B) نهاية جميع الحظر والقيود",
+  "C": "C) طريق بدون مدخل",
+  "D": "D) الطريق سينتهي في الأمام - نهاية المسار",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) يمكن التوقف لفترة قصيرة فقط عند صعود ونزول الركاب",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/4b/6e/85/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
+ }
+]

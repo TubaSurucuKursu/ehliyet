@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "وفقاً للصورة، أي منها صحيح؟\nI. السيارة الصفراء يجب أن تفرغ التقاطع\nII. يمكنني الانعطاف الآن فوراً\nIII. يجب أن أستعد للاستمرار في الطريق",
+  "A": "A) I فقط",
+  "B": "B) II فقط",
+  "C": "C) I و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvBUu_NzkiDlqf34RHXoVvBuyq9kO4Cj89aD_-66Kxa0ikG7F98HWeST7IqgEafs7YUiaS8YB7v8bUZk9EkzzeHv9IzhjP4heMNKgPaO46_bu2B8XkIBuNT2Sz6piNBmcN3yuIfglm1cnt44PsuK8WPXPih0qezLZOZmuRRGptpdWMpL1VTNMq9n99hNlz/s1600/1236004b.jpg",
+  "Explaination": 1,
+  "Answer": "I و III",
+  "Video": 1
+ },
+ {
+  "Question": "أي سلوك صحيح؟\nI. [الدراجة النارية] يجب أن تنتظر\nII. يجب أن أنتظر",
+  "A": "A) I - صحيح 2- خطأ",
+  "B": "B) I - خطأ 2- صحيح",
+  "C": "C) كلاهما صحيح",
+  "D": "D) كلاهما خطأ",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAHlEyc8rkAIw0AtvX4u8Bdt7AU8sKzQv1lEu_-btjnFH_KKvOAUL3X2buDsWD7rkh_lOytHFQbUyDuS18HZ5YHQqTSjW4yLbvDltYleE7hswc3oH3AW_DFkncCYtdhsQSBRGJnv4xr-PduCoVSL7v1yj2MJeiY8jPLwwST70xfAIxO01xjUQWUlkQKyvJ/s1600/1301103m.jpg",
+  "Explaination": "القاعدة الأساسية هي إعطاء الأولوية لمن على اليمين. لذلك يجب أن تنتظر وتعطي حق الطريق لراكب الدراجة النارية.",
+  "Answer": "I - خطأ 2- صحيح",
+  "Video": 1
+ },
+ {
+  "Question": "في هذه الحالة، كيف تتحرك بشكل صحيح؟",
+  "A": "A) أتجاوز [سائق الدراجة]",
+  "B": "B) أبطئ سرعتي",
+  "C": "C) أحافظ على سرعتي",
+  "D": "D) أسرع",
+  "Image": 1,
+  "Explaination": "هناك جزيرة طريق أمامك لا تعطي مساحة كافية لتجاوز راكب الدراجة. يجب أن تبطئ وتبقى خلف راكب الدراجة حتى يتسع المسار مرة أخرى.",
+  "Answer": "B) أبطئ سرعتي",
+  "Video": "https://v1.pinimg.com/videos/mc/expMp4/9e/d3/72/9ed372d9c02e43f265e169eb72db7428_t4.mp4"
+ },
+ {
+  "Question": "لماذا يجب أن تستعد؟\nI. حركة المركبات\nII. خروج المشاة فجأة إلى الطريق\nIII. فتح أبواب المركبات",
+  "A": "A) I فقط",
+  "B": "B) II فقط",
+  "C": "C) I و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuWYvvWPAKkvTqIva586dEFcG4R_9vr0B-qm33Vk3LYsiqHVR5yySQMiJq0ujnxHrPbNoWTfhFefJzxNqw_p2BmzXxMejZv7nZxGCCkwmEfkOPZb1QoNoBwcFjsITPrsJ0mImahyphenhyphenpARZvei7DDseW6I4Jm8FV5d5OWfrKBZcANiWzCQj9_aCoXch-VcmnQ/s1600/1102131.jpg",
+  "Explaination": "قود بشكل خاص ببطء وحذر هنا وكن مستعداً للفرملة.",
+  "Answer": "I و II و III",
+  "Video": 1
+ },
+ {
+  "Question": "ماذا يخبرك هذا المزيج من إشارات المرور؟\n\nI. يخبر عن معبر السكة الحديدية ومركبات السكك الحديدية يمكنها عبور المعبر بسرعة 10 كم/ساعة فقط\nII. يمكنني الاقتراب من المعبر من هذه النقطة بسرعة أقصاها 10 كم/ساعة\nIII. يمكنني عبور المعبر بسرعة أقصاها 10 كم/ساعة",
+  "A": "A) I فقط",
+  "B": "B) II فقط",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioeFg-hnF5kUGImF8Fe_S-UGE08xKh6WbI43N8LhPVS0YelWzxPkOus9b1dFS9AwkkNL3Xz8d0cpa4jPjINYUCoTeZxM2DcRWcPmrRnNbHhArpBwIwmjSgyEflJP0kYqCNhyphenhyphenjOaSAcpT8hTiHvZiU8C9dn3FBzjqd1vpSZKxRv2DtNjE6XrxQElxIHuBma/s1600/1219113.png",
+  "Explaination": "إشارة المرور لا تعبر عن حركة السكك الحديدية. من هنا لا يمكنك الذهاب إلى معبر السكة الحديدية أسرع من 10 كم/ساعة. إشارة المرور تحدد السرعة التي يجب أن تعبر بها معبر السكة الحديدية.",
+  "Answer": "II و III",
+  "Video": 1
+ }
+]

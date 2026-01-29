@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "وفقاً للصورة، ما الذي لا يمكن قوله عن سائق المركبة رقم 1 الذي يريد الذهاب باتجاه أضنة؟",
+  "A": "A) أنه لم يستخدم أضواء المركبة في المكان الصحيح",
+  "B": "B) أنه دخل المسار الصحيح قبل الانعطاف",
+  "C": "C) أنه لم يضع سائق الشاحنة في موقف صعب",
+  "D": "D) أنه لم يتبع قواعد التجاوز",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HoLnDHYOXC28FGiJcfTVfoNIb6zkA9kOs-vkwMxQ1SLih07pS3sPC-7AIOhOPC10KcjbOrF-xr4YxkshrCSRdasGne5SocBmXgT-Oa6qCxT5I9ZGTBzWraRLdQ2otXasYmqCQxojGYzk4a_9McS8LjzuoO12MtnqJ9wFMvGjtdWDwHMqEGOU3Snjagdr/s1600/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
+  "Explaination": 1,
+  "Answer": "C) أنه لم يضع سائق الشاحنة في موقف صعب",
+  "Video": 1
+ },
+ {
+  "Question": "وفقاً للرسوم المتحركة، ما الذي يكون خطأ فعله؟",
+  "A": "A) تقليل سرعته",
+  "B": "B) تجاوز المركبة الأمامية",
+  "C": "C) تقليل مسافة المتابعة",
+  "D": "D) تجنب التوقف",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) تقليل مسافة المتابعة",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/c3/60/d2/c360d247c4b2923531f7c09917aeab0b.mp4"
+ },
+ {
+  "Question": "وفقاً للصورة، ماذا تعتقد؟",
+  "A": "A) يمكن التوقف لفترة قصيرة فقط عند صعود ونزول الركاب",
+  "B": "B) نهاية جميع الحظر والقيود",
+  "C": "C) طريق بدون مدخل",
+  "D": "D) الطريق سينتهي في الأمام - نهاية المسار",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) يمكن التوقف لفترة قصيرة فقط عند صعود ونزول الركاب",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/4b/6e/85/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
+ },
+ {
+  "Question": "بخصوص السائق الذي يقوم بتحذيرات باليد والذراع والكلام للمشاة الذي يحاول العبور في الصورة للتحرك بسرعة، ما الذي يمكن قوله؟",
+  "A": "A) أن قدرته على التواصل عالية",
+  "B": "B) أنه يستطيع التعاطف",
+  "C": "C) أنه لا يستطيع التصرف بصبر",
+  "D": "D) أنه يولي أهمية لمفهوم الاحترام",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx5rDSAcqh7YGd_72j1clwC1X9LYhSfJyrl1OC2CKWaqsimlXDMavhwNosedyLifC-_rVBDl3kf-ZPSTRJLohqhphXyASOw0mLPhPkGrvJ199RHYblZsmeXWdRPPhlmpeIqtWiFcFphhnR-_3qdGXMNuSXHcN-vGvQETVVBnYs85bvtHPWskBsJb7heVOB/s1600/vlcsnap-2024-05-30-10h35m44s435.png",
+  "Explaination": 1,
+  "Answer": "C) أنه لا يستطيع التصرف بصبر",
+  "Video": 1
+ },
+ {
+  "Question": "ما هو الخطأ؟\nI. تم اتباع قواعد المرور\nII. السائقون على دراية بأولوية المرور\nIII. السائقون تجاوزوا حد السرعة",
+  "A": "A) I فقط",
+  "B": "B) I و II",
+  "C": "C) II و III",
+  "D": "D) I و II و III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I و II و III",
+  "Video": "https://v1.pinimg.com/videos/iht/720p/4c/ee/5b/4cee5b26e2133223689357b0fe4c0446.mp4"
+ }
+]
